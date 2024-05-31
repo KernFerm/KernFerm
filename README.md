@@ -57,9 +57,11 @@ If you enjoy my work, consider supporting me:
 
 ## Discord
 
-[**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
+- owner bubbles [**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
 
+- owner elijah [**Rootkit Dev Community**](https://discord.gg/rootkitorg)
 
+-----
 ## License
 This project is licensed under the [Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE) - All Rights Reserved.
 
