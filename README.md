@@ -48,13 +48,6 @@ If you enjoy my work, consider supporting me:
 
 ----
 
-### **Thank you for visiting my profile !!! 😊**
-
-**![GitHub followers](https://img.shields.io/github/followers/KernFerm?label=Follow&style=social)**
-**![GitHub stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)**
-
-----
-
 ## Discord
 
 - owner is Bubbles [**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
@@ -64,4 +57,11 @@ If you enjoy my work, consider supporting me:
 -----
 ## License
 This project is licensed under the [Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE) - All Rights Reserved.
+
+-----
+
+### **Thank you for visiting my profile !!! 😊**
+
+**![GitHub followers](https://img.shields.io/github/followers/KernFerm?label=Follow&style=social)**
+**![GitHub stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)**
 
