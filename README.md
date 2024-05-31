@@ -57,9 +57,9 @@ If you enjoy my work, consider supporting me:
 
 ## Discord
 
-- owner bubbles [**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
+- owner is Bubbles [**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
 
-- owner elijah [**Rootkit Dev Community**](https://discord.gg/rootkitorg)
+- owner is Elijah [**Rootkit Dev Community**](https://discord.gg/rootkitorg)
 
 -----
 ## License
