@@ -9,7 +9,7 @@
 - 🐰 I have 1 rabbit.
 - ❤️ I love my family and enjoy helping people.
 - 🌍 My goal is to make the world a better place and to obtain my **computer science certification**.
-- 💻 I'm proficient in **Python** 🐍, **JavaScript** 💻, **TypeScript** 📝, **HTML** 🌐, **CSS** 🎨, and other coding languages.
+- 💻 I'm proficient in **Python** 🐍, **JavaScript** 💻, **HTML** 🌐, **CSS** 🎨, **TypeScript** 📝, and other coding languages.
 
 ---
 
