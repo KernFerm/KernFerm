@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌟 I'm a **streamer**, **coder**, and **developer**.
-- 🕹️ I enjoy playing **video games**.
+- 🕹️ I enjoy playing **fortnite**.
 - 🐶🐶🐶 I have 3 dogs.
 - 🐱🐱 I have 2 cats.
 - 🐹🐹 I have 2 guinea pigs.
