@@ -30,6 +30,7 @@
   - CSS 🎨
   - Batch Script 📜
 - **Languages**: 
+  - English 🇺🇸 
   - Russian 🇷🇺
   - Vietnamese 🇻🇳
   - Korean 🇰🇷
