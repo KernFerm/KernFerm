@@ -1,7 +1,7 @@
 # Hi there, I'm Bubbles 👋
 
 ## About Me
-- 🌟 I'm a **streamer**, **coder**, and **developer**.
+- 🌟 I'm a **streamer**, **software developer / **programmer** / **software engineer**
 - 🕹️ I enjoy playing **fortnite**.
 - 🐶🐶🐶 I have 3 dogs.
 - 🐱🐱 I have 2 cats.
