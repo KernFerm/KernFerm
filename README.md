@@ -75,7 +75,12 @@
 - Nuclear physics
 
 ```
-I taught myself both theoretical and nuclear physics with in a short amount of time. I find it fascinating. I am still learning and teaching myself. 
+ {
+    "subject_areas": ["theoretical physics", "nuclear physics"],
+    "time_frame": "short amount of time",
+    "interest": "fascinating",
+    "current_status": "still learning and teaching myself"
+}
 ```
 
 ## Support
