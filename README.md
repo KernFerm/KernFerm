@@ -69,6 +69,15 @@
   - Portuguese 🇵🇹
 - **Tools & Frameworks**: Node.js, React, Django, etc.
 
+## Science 
+
+- Theoretical physics
+- Nuclear physics
+
+```
+I taught myself both theoretical and nuclear physics with in a short amount of time. I find it fascinating. I am still learning and teaching myself. 
+```
+
 ## Support
 If you enjoy my work, consider supporting me:
 
