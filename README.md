@@ -74,7 +74,7 @@
 - Theoretical physics
 - Nuclear physics
 
-```
+```json
  {
     "subject_areas": ["theoretical physics", "nuclear physics"],
     "time_frame": "short amount of time",
