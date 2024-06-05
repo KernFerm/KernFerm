@@ -12,32 +12,32 @@
 - 💻 I'm proficient in **Python** 🐍, **JavaScript** 💻, **HTML** 🌐, **CSS** 🎨, **TypeScript** 📝, and other coding languages.
 
 ----
-- **𓀀 - K: Represents a mountain, symbolizing strength and resilience.**
-- **𓀁 - e: Represents a wave, symbolizing fluidity and adaptability.**
-- **𓀂 - r: Represents a tree, symbolizing growth and vitality.**
-- **𓀃 - n: Represents a road, symbolizing journey and progress.**
-- **𐌄 - F: Represents a flame, symbolizing passion and creativity.**
-- **𓀆 - e: Represents a wave, symbolizing fluidity and adaptability.**
-- **𐌅 - r: Represents a tree, symbolizing growth and vitality.**
-- **𓀇 - m: Represents a mountain, symbolizing strength and resilience.**
-- **𓀈 - : Represents a space, symbolizing openness and clarity.**
-- **𓀉 - (: Represents a sun, symbolizing warmth and energy.**
-- **𓀊 - B: Represents a house, symbolizing stability and security.**
-- **𓀋 - u: Represents a cup, symbolizing nourishment and abundance.**
-- **𓀌 - b: Represents a boat, symbolizing journey and exploration.**
-- **𓀍 - b: Represents a boat, symbolizing journey and exploration.**
-- **𓀎 - l: Represents a spear, symbolizing focus and determination.**
-- **𐌏 - e: Represents a wave, symbolizing fluidity and adaptability.**
-- **𓀐 - s: Represents a snake, symbolizing transformation and renewal.**
-- **𐌑 - : Represents a space, symbolizing openness and clarity.**
-- **𓀒 - T: Represents a tree, symbolizing growth and vitality.**
-- **𐌓 - h: Represents a hill, symbolizing challenge and opportunity.**
-- **𓀔 - e: Represents a wave, symbolizing fluidity and adaptability.**
-- **𓀕 - : Represents a space, symbolizing openness and clarity.**
-- **𐌖 - D: Represents a door, symbolizing opportunity and transition.**
-- **𓀗 - e: Represents a wave, symbolizing fluidity and adaptability.**
-- **𓀘 - v: Represents a bird, symbolizing freedom and perspective.**
-- **𐌙 - ): Represents a moon, symbolizing reflection and intuition.**
+- 𓀀 - K: Represents a mountain, symbolizing strength and resilience.
+- 𓀁 - e: Represents a wave, symbolizing fluidity and adaptability.
+- 𓀂 - r: Represents a tree, symbolizing growth and vitality.
+- 𓀃 - n: Represents a road, symbolizing journey and progress.
+- 𐌄 - F: Represents a flame, symbolizing passion and creativity.
+- 𓀆 - e: Represents a wave, symbolizing fluidity and adaptability.
+- 𐌅 - r: Represents a tree, symbolizing growth and vitality.
+- 𓀇 - m: Represents a mountain, symbolizing strength and resilience.
+- 𓀈 - : Represents a space, symbolizing openness and clarity.
+- 𓀉 - (: Represents a sun, symbolizing warmth and energy.
+- 𓀊 - B: Represents a house, symbolizing stability and security.
+- 𓀋 - u: Represents a cup, symbolizing nourishment and abundance.
+- 𓀌 - b: Represents a boat, symbolizing journey and exploration.
+- 𓀍 - b: Represents a boat, symbolizing journey and exploration.
+- 𓀎 - l: Represents a spear, symbolizing focus and determination.
+- 𐌏 - e: Represents a wave, symbolizing fluidity and adaptability.
+- 𓀐 - s: Represents a snake, symbolizing transformation and renewal.
+- 𐌑 - : Represents a space, symbolizing openness and clarity.
+- 𓀒 - T: Represents a tree, symbolizing growth and vitality.
+- 𐌓 - h: Represents a hill, symbolizing challenge and opportunity.
+- 𓀔 - e: Represents a wave, symbolizing fluidity and adaptability.
+- 𓀕 - : Represents a space, symbolizing openness and clarity.
+- 𐌖 - D: Represents a door, symbolizing opportunity and transition.
+- 𓀗 - e: Represents a wave, symbolizing fluidity and adaptability.
+- 𓀘 - v: Represents a bird, symbolizing freedom and perspective.
+- 𐌙 - ): Represents a moon, symbolizing reflection and intuition.
 
 ----
 
