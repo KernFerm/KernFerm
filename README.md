@@ -67,6 +67,7 @@
   - Chinese (Traditional) 🇨🇳
   - French 🇫🇷
   - Portuguese 🇵🇹
+  - Croatian 🇭🇷
 - **Tools & Frameworks**: Node.js, React, Django, etc.
 
 ## Science 
