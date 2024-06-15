@@ -51,13 +51,14 @@
 ---
 
 ## SKILLS
-- **Programming Languages**: 
+- **Programming Languages:**
   - Python 🐍
   - JavaScript 💻
   - TypeScript 📝
   - HTML 🌐
   - CSS 🎨
   - Batch Script 📜
+  - PowerShell ⚙️
 - **Languages**: 
   - English 🇺🇸 
   - Russian 🇷🇺
