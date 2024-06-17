@@ -1,7 +1,7 @@
 # Hi there, I'm Bubbles 👋
 
 ## About Me
-- 🌟 I'm a **streamer** / **software developer** / **programmer** / **software engineer**
+- 🌟 I'm a **streamer** / **software developer** / **programmer** / **software engineer** / **Web Developer**
 - PTSD , ADHD , Autsim , RA , Seizures
 - 🕹️ I enjoy playing **fortnite**.
 - 🐶🐶🐶 I have 3 dogs.
@@ -71,7 +71,7 @@
   - French 🇫🇷
   - Portuguese 🇵🇹
   - Croatian 🇭🇷
-- **Tools & Frameworks**: Node.js, React, Django, Web Development, etc.
+- **Tools & Frameworks**: Node.js, React, Django, etc.
 
 ## Science 
 
