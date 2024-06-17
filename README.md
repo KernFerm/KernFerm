@@ -1,7 +1,7 @@
 # Hi there, I'm Bubbles 👋
 
 ## About Me
-- 🌟 I'm a **streamer** / **software developer** / **programmer** / **software engineer** / **Web Developer**
+- 🌟 I'm a **streamer** / **Software Developer** / **Programmer** / **Software Engineer** / **Web Developer**
 - PTSD , ADHD , Autsim , RA , Seizures
 - 🕹️ I enjoy playing **fortnite**.
 - 🐶🐶🐶 I have 3 dogs.
