@@ -12,6 +12,7 @@
 - 🌍 My goal is to make the world a better place and to obtain my **computer science certification**.
 - 💻 I'm proficient in **Python** 🐍, **JavaScript** 💻, **HTML** 🌐, **CSS** 🎨, **TypeScript** 📝, and other coding languages.
 
+
 ----
 - 𓀀 - K: Represents a mountain, symbolizing strength and resilience.
 - 𓀁 - e: Represents a wave, symbolizing fluidity and adaptability.
@@ -70,7 +71,7 @@
   - French 🇫🇷
   - Portuguese 🇵🇹
   - Croatian 🇭🇷
-- **Tools & Frameworks**: Node.js, React, Django, etc.
+- **Tools & Frameworks**: Node.js, React, Django, Web Development, etc.
 
 ## Science 
 
