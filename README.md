@@ -3,7 +3,7 @@
 ## About Me
 - 🌟 I'm a **Streamer** / **Software Developer** / **Programmer** / **Software Engineer** / **Web Developer**
 - PTSD , ADHD , Autsim , RA , Seizures
-- 🕹️ I enjoy playing **fortnite**.
+- 🕹️ I enjoy playing **video games**.
 - 🐶🐶🐶 I have 3 dogs.
 - 🐱🐱 I have 2 cats.
 - 🐹🐹 I have 2 guinea pigs.
