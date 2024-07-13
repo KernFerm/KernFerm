@@ -1,82 +1,42 @@
-# Hi there, I'm Bubbles 👋
+# Hi there, I'm Bubbles
 
 ## About Me
-- 🌟 I'm a **Streamer** / **Software Developer** / **Programmer** / **Software Engineer** / **Web Developer**
-- PTSD , ADHD , Autsim , RA , Seizures
-- 🕹️ I enjoy playing **video games**.
-- 🐶🐶🐶 I have 3 dogs.
-- 🐱🐱 I have 2 cats.
-- 🐹🐹 I have 2 guinea pigs.
-- 🐰 I have 1 rabbit.
-- ❤️ I love my family and enjoy helping people.
-- 🌍 My goal is to make the world a better place and to obtain my **computer science certification**.
-- 💻 I'm proficient in **Python** 🐍, **JavaScript** 💻, **HTML** 🌐, **CSS** 🎨, **TypeScript** 📝, and other coding languages.
+- Streamer / Software Developer / Programmer / Software Engineer / Web Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
+- Passionate about gaming, coding, and helping others
+- Experienced with PTSD, ADHD, Autism, RA, and Seizures
+- I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit
+- My goal is to make the world a better place and achieve a computer science certification
 
+## Skills
+### Programming Languages
+- Python 🐍
+- JavaScript 💻
+- TypeScript 📝
+- HTML 🌐
+- CSS 🎨
+- Batch Script 📜
+- PowerShell ⚙️
 
-----
-- 𓀀 - K: Represents a mountain, symbolizing strength and resilience.
-- 𓀁 - e: Represents a wave, symbolizing fluidity and adaptability.
-- 𓀂 - r: Represents a tree, symbolizing growth and vitality.
-- 𓀃 - n: Represents a road, symbolizing journey and progress.
-- 𐌄 - F: Represents a flame, symbolizing passion and creativity.
-- 𓀆 - e: Represents a wave, symbolizing fluidity and adaptability.
-- 𐌅 - r: Represents a tree, symbolizing growth and vitality.
-- 𓀇 - m: Represents a mountain, symbolizing strength and resilience.
-- 𓀈 - : Represents a space, symbolizing openness and clarity.
-- 𓀉 - (: Represents a sun, symbolizing warmth and energy.
-- 𓀊 - B: Represents a house, symbolizing stability and security.
-- 𓀋 - u: Represents a cup, symbolizing nourishment and abundance.
-- 𓀌 - b: Represents a boat, symbolizing journey and exploration.
-- 𓀍 - b: Represents a boat, symbolizing journey and exploration.
-- 𓀎 - l: Represents a spear, symbolizing focus and determination.
-- 𐌏 - e: Represents a wave, symbolizing fluidity and adaptability.
-- 𓀐 - s: Represents a snake, symbolizing transformation and renewal.
-- 𐌑 - : Represents a space, symbolizing openness and clarity.
-- 𓀒 - T: Represents a tree, symbolizing growth and vitality.
-- 𐌓 - h: Represents a hill, symbolizing challenge and opportunity.
-- 𓀔 - e: Represents a wave, symbolizing fluidity and adaptability.
-- 𓀕 - : Represents a space, symbolizing openness and clarity.
-- 𐌖 - D: Represents a door, symbolizing opportunity and transition.
-- 𓀗 - e: Represents a wave, symbolizing fluidity and adaptability.
-- 𓀘 - v: Represents a bird, symbolizing freedom and perspective.
-- 𐌙 - ): Represents a moon, symbolizing reflection and intuition.
+### Languages
+- English 🇺🇸
+- Russian 🇷🇺
+- Vietnamese 🇻🇳
+- Korean 🇰🇷
+- Turkish 🇹🇷
+- Chinese (Simplified) 🇨🇳
+- Chinese (Traditional) 🇨🇳
+- French 🇫🇷
+- Portuguese 🇵🇹
+- Croatian 🇭🇷
 
-----
+### Tools & Frameworks
+- Node.js
+- React
+- Django
 
-## Get in Touch
-
-- 📧 Email: [kernferm@gmail.com](mailto:kernferm@gmail.com)
-- 🌐 Website: [fnbubbles420.org](http://fnbubbles420.org)
-- 🐦 Twitter: [@KernFerm](https://twitter.com/KernFerm)
-
----
-
-## SKILLS
-- **Programming Languages:**
-  - Python 🐍
-  - JavaScript 💻
-  - TypeScript 📝
-  - HTML 🌐
-  - CSS 🎨
-  - Batch Script 📜
-  - PowerShell ⚙️
-- **Languages**: 
-  - English 🇺🇸 
-  - Russian 🇷🇺
-  - Vietnamese 🇻🇳
-  - Korean 🇰🇷
-  - Turkish 🇹🇷
-  - Chinese (Simplified) 🇨🇳
-  - Chinese (Traditional) 🇨🇳
-  - French 🇫🇷
-  - Portuguese 🇵🇹
-  - Croatian 🇭🇷
-- **Tools & Frameworks**: Node.js, React, Django, etc.
-
-## Science 
-
-- Theoretical physics
-- Nuclear physics
+## Science
+- Theoretical Physics
+- Nuclear Physics
 
 ```json
  {
@@ -85,14 +45,14 @@
     "interest": "fascinating",
     "current_status": "still learning and teaching myself"
 }
-```
+
+## Get in Touch
+- **Email:** kernferm@gmail.com
+- **Website:** [fnbubbles420.org](http://fnbubbles420.org)
+- **Twitter:** [@KernFerm](https://twitter.com/KernFerm)
 
 ## Support
-If you enjoy my work, consider supporting me:
-
-- `Coming Soon!!`
-
-----
+If you enjoy my work, consider supporting me: *Coming Soon!!*
 
 ## Discord
 
@@ -110,4 +70,3 @@ This project is licensed under the [Custom License](https://github.com/KernFerm/
 
 **![GitHub followers](https://img.shields.io/github/followers/KernFerm?label=Follow&style=social)**
 **![GitHub stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)**
-
