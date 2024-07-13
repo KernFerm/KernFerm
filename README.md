@@ -12,7 +12,7 @@
 
 𓇋 (Reed leaf): Represents "the." This hieroglyph, a single reed leaf, is often used as a phonetic symbol for the sound "i" or "y" and can also serve as a determinative to specify the meaning of a word.
 
-𓆎 (Scarab beetle): Symbolizes creation, transformation, and rebirth. The scarab beetle was sacred in ancient Egypt and associated with the sun god Ra. It represents the creative forces of life and the transformative power of the sun, making it an ideal symbol for a developer or creator.
+𓆎 (Scarab beetle): Symbolizes creation, transformation, and rebirth. The scarab beetle was sacred in ancient Egypt and associated with the sun god Ra. It represents the creative forces of life and the transformative power of the sun.
 
 Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
