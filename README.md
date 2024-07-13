@@ -8,11 +8,13 @@
 - My goal is to make the world a better place and achieve a computer science certification
 
 ```
-𓈗 (Water): This symbol represents water, which is essential for life. In ancient Egypt, water was a symbol of life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
+𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
 
-𓇋 (Reed leaf): This hieroglyph represents a single reed leaf and is often used as a phonetic symbol for the sound "i" or "y." It can also function as a determinative or complement to specify the meaning of a word. Here, it represents "the," serving as a connector between the symbols.
+𓇋 (Reed leaf): Represents "the." This hieroglyph, a single reed leaf, is often used as a phonetic symbol for the sound "i" or "y" and can also serve as a determinative to specify the meaning of a word.
 
-𓆎 (Scarab beetle): The scarab beetle is a significant symbol in ancient Egyptian culture. It represents creation, transformation, and rebirth. The Egyptians associated the scarab with the sun god Ra and saw it as a symbol of the creative forces of life and the sun's transformative power, making it a fitting symbol for a developer or creator.
+𓆎 (Scarab beetle): Symbolizes creation, transformation, and rebirth. The scarab beetle was sacred in ancient Egypt and associated with the sun god Ra. It represents the creative forces of life and the transformative power of the sun, making it an ideal symbol for a developer or creator.
+
+Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
 
 ## Skills
