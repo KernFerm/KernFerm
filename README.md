@@ -3,7 +3,7 @@
 ## About Me
 - Streamer / Software Developer / Programmer / Software Engineer / Web Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
 - Passionate about gaming, coding, and helping others
-- Experienced with PTSD, ADHD, Autism, RA, and Seizures
+- I have PTSD, ADHD, Autism, RA, and Seizures
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit
 - My goal is to make the world a better place and achieve a computer science certification
 
