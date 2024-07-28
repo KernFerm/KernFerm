@@ -75,8 +75,9 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Einstein_equation.svg" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
 </p>
+
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F03%2F18%2F51%2F99%2F360_F_318519903_2i1zRvgRlDiYHUKQLT8W6TrhPOuGJ8QB.jpg&f=1&nofb=1&ipt=49768135d6aa30c28a379e3e529e65c8f683394681e889eb063d1d973345efb3&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnuclear-power.com%2Fwp-content%2Fuploads%2F2014%2F12%2FStructure-of-Matter.jpg&f=1&nofb=1&ipt=408e521d0327797be8b07b6e7c8fe2de0e4b60b3bdfec7dc3dd8b89bd9d2d476&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
 </p>
 
 ```json
