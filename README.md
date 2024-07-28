@@ -72,8 +72,9 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 </p>
 
 ## Science
-  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Einstein_equation.svg" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
+
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3167063.jpg&f=1&nofb=1&ipt=e25a400b7418547427161eab78bed4b82ecf8f23dd98f5b29206b5bf11dc12c7&ipo=images" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
 </p>
 
 <p align="center">
