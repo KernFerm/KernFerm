@@ -23,22 +23,23 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ## Programming Languages
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fi%2Fbac5a6f3-7da6-428a-876a-083bae453a5c%2Fd6qw809-4735186b-d16f-491d-987e-53178cc6beec.gif&f=1&nofb=1&ipt=05783075d1e4f61e33e4bbb94449d7fcd484b317092d1019a21fb6c39be89d09&ipo=images" alt="Python" width="60" height="60">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fjavascript.gif&f=1&nofb=1&ipt=63623e2f03545c01d507c0e190f0ec8e9fc86e6948290df7b5105cfcd58dcb63&ipo=images" alt="JavaScript" width="60" height="60">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXAxylRMCdpbEWUAvr8%2Fgiphy.gif&f=1&nofb=1&ipt=9812cf0f262ee73ad0d5141b9fbde914e7ed2a1def05ab03175a97adedddea98&ipo=images" alt="HTML5" width="60" height="60">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fcss.gif&f=1&nofb=1&ipt=6ee730516dddcab61818c5ad5e1e335b66e91e8cebc40c3dc89f645034e0c8c7&ipo=images" alt="CSS3" width="60" height="60">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcmapspublic.ihmc.us%2Frid%3D1H4QDH3D7-1ZK8Z64-VTJ%2Fgears-animation.gif&f=1&nofb=1&ipt=1a2911e1cd8f728780cbfec9bb38238757900f11de73a4ca00917a6208bf9604&ipo=images" alt="Batch Script" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Ftypescript.gif&f=1&nofb=1&ipt=123abcf7ab9c1234f5678fba2a6e69a6&ipo=images" alt="TypeScript" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60">
-  <span style="font-size: 14px; color: #00599C;">Learning</span>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fassembly-language-binary-code-d-illustration-97451165.jpg&f=1&nofb=1&ipt=dc2b8e79766e004b9837445fcb7a8e74d67a94f4092a8a6280adbf2f49346d00&ipo=images" alt="Assembly" width="60" height="60">
-  <span style="font-size: 14px; color: #8B0000;">Going to Learn</span>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60">
-  <span style="font-size: 14px; color: #000000;">Going to Learn</span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60">
-  <span style="font-size: 14px; color: #00599C;">Going to Learn</span>
+  <table>
+    <tr>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fi%2Fbac5a6f3-7da6-428a-876a-083bae453a5c%2Fd6qw809-4735186b-d16f-491d-987e-53178cc6beec.gif&f=1&nofb=1&ipt=05783075d1e4f61e33e4bbb94449d7fcd484b317092d1019a21fb6c39be89d09&ipo=images" alt="Python" width="60" height="60"><br>Python</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fjavascript.gif&f=1&nofb=1&ipt=63623e2f03545c01d507c0e190f0ec8e9fc86e6948290df7b5105cfcd58dcb63&ipo=images" alt="JavaScript" width="60" height="60"><br>JavaScript</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXAxylRMCdpbEWUAvr8%2Fgiphy.gif&f=1&nofb=1&ipt=9812cf0f262ee73ad0d5141b9fbde914e7ed2a1def05ab03175a97adedddea98&ipo=images" alt="HTML5" width="60" height="60"><br>HTML5</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fcss.gif&f=1&nofb=1&ipt=6ee730516dddcab61818c5ad5e1e335b66e91e8cebc40c3dc89f645034e0c8c7&ipo=images" alt="CSS3" width="60" height="60"><br>CSS3</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcmapspublic.ihmc.us%2Frid%3D1H4QDH3D7-1ZK8Z64-VTJ%2Fgears-animation.gif&f=1&nofb=1&ipt=1a2911e1cd8f728780cbfec9bb38238757900f11de73a4ca00917a6208bf9604&ipo=images" alt="Batch Script" width="60" height="60"><br>Batch Script</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"><br>PowerShell</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Ftypescript.gif&f=1&nofb=1&ipt=123abcf7ab9c1234f5678fba2a6e69a6&ipo=images" alt="TypeScript" width="60" height="60"><br>TypeScript</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"><br>Learning</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fassembly-language-binary-code-d-illustration-97451165.jpg&f=1&nofb=1&ipt=dc2b8e79766e004b9837445fcb7a8e74d67a94f4092a8a6280adbf2f49346d00&ipo=images" alt="Assembly" width="60" height="60"><br>Going to Learn</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60"><br>Going to Learn</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"><br>Going to Learn</td>
+    </tr>
+  </table>
 </p>
+
 ## Languages
 
 <table align="center">
