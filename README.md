@@ -73,8 +73,13 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 
 ## Science
 - Theoretical Physics
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Einstein_equation.svg" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
+</p>
 - Nuclear Physics
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Atomic_nucleus.svg" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
+</p>
 ```json
  {
     "subject_areas": ["theoretical physics", "nuclear physics"],
