@@ -16,9 +16,25 @@
 
 Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
-
-## Languages
-
+----
+## Skills
+------
+### Programming Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="height: 60px;"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 60px;"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 60px;"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="height: 60px;"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="height: 60px;"></td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/settings.png" alt="Batch Script" style="height: 60px;"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="height: 60px;"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="height: 60px;"></td>
+  </tr>
+</table>
+Languages
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" style="height: 40px;"></td>
