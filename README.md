@@ -35,11 +35,11 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
     <p style="font-size: 14px; color: #00599C;">Learning</p>
   </div>
   <div>
-    <p style="font-size: 14px; color: #8B0000;">Assembly</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly-language-logo.png" alt="Assembly" width="60" height="60">
     <p style="font-size: 14px; color: #8B0000;">Going to Learn</p>
   </div>
   <div>
-    <p style="font-size: 14px; color: #000000;">Rust</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60">
     <p style="font-size: 14px; color: #000000;">Going to Learn</p>
   </div>
   <div>
