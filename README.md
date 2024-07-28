@@ -19,14 +19,15 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 
 ## Skills
 ### Programming Languages
-- <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30">
-- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-Batch_Script-4A4A4A?style=for-the-badge&logo=windows&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="30">
-- <img src="https://img.shields.io/badge/-Learning_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="30">
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 40px;">
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/Batch_Script-4A4A4A?style=for-the-badge&logo=windows&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" style="height: 40px;">
+- <img src="https://img.shields.io/badge/Learning_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" style="height: 40px;">
+
 
 ### Languages
 - ![English](https://img.shields.io/badge/-English-0073CF?style=flat-square&logoColor=white&labelColor=0073CF&logo=flag&logoColor=white) 🇺🇸
