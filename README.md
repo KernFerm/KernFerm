@@ -23,8 +23,8 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ## Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fi%2Fbac5a6f3-7da6-428a-876a-083bae453a5c%2Fd6qw809-4735186b-d16f-491d-987e-53178cc6beec.gif&f=1&nofb=1&ipt=05783075d1e4f61e33e4bbb94449d7fcd484b317092d1019a21fb6c39be89d09&ipo=images" alt="Python" width="60" height="60">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fjavascript.gif&f=1&nofb=1&ipt=63623e2f03545c01d507c0e190f0ec8e9fc86e6948290df7b5105cfcd58dcb63&ipo=images" alt="JavaScript" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60">
@@ -35,11 +35,11 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
     <p style="font-size: 14px; color: #00599C;">Learning</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly-language-logo.png" alt="Assembly" width="60" height="60">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fassembly-language-binary-code-d-illustration-97451165.jpg&f=1&nofb=1&ipt=dc2b8e79766e004b9837445fcb7a8e74d67a94f4092a8a6280adbf2f49346d00&ipo=images" alt="Assembly" width="60" height="60">
     <p style="font-size: 14px; color: #8B0000;">Going to Learn</p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60">
     <p style="font-size: 14px; color: #000000;">Going to Learn</p>
   </div>
   <div>
