@@ -17,40 +17,38 @@
 Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
 ----
-## Skills
-------
-### Programming Languages
-<table>
+
+# Skills
+
+## Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Batch_Script-4E4E4E?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Script">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+
+## Languages
+
+<table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="height: 60px;"></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="50"><br><b>English</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="50"><br><b>Russian</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="50"><br><b>Vietnamese</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="50"><br><b>Korean</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="50"><br><b>Turkish</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="height: 60px;"></td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/settings.png" alt="Batch Script" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="height: 60px;"></td>
-  </tr>
-</table>
-Languages
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russian" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnamese" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="Korean" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_the_People%27s_Republic_of_China.svg" alt="Chinese" style="height: 40px;"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_the_People%27s_Republic_of_China.svg" alt="Chinese" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portuguese" style="height: 40px;"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Croatian" style="height: 40px;"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="50"><br><b>Chinese (Simplified)</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" width="50"><br><b>Chinese (Traditional)</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="50"><br><b>French</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="50"><br><b>Portuguese</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" width="50"><br><b>Croatian</b></td>
   </tr>
 </table>
 
