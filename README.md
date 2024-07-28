@@ -29,11 +29,12 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="height: 60px;"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Batch Script" style="height: 60px;"></td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/settings.png" alt="Batch Script" style="height: 60px;"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="height: 60px;"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="height: 60px;"></td>
   </tr>
 </table>
+
 
 
 
