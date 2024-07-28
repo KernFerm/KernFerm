@@ -19,13 +19,15 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 
 ## Skills
 ### Programming Languages
-- Python 🐍
-- JavaScript 💻
-- TypeScript 📝
-- HTML 🌐
-- CSS 🎨
-- Batch Script 📜
-- PowerShell ⚙️
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Batch Script](https://img.shields.io/badge/-Batch_Script-4A4A4A?style=flat-square&logo=windows&logoColor=white)
+- ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+- ![Learning C](https://img.shields.io/badge/-Learning_C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
 
 ### Languages
 - English 🇺🇸
