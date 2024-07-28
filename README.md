@@ -74,11 +74,16 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ## Science
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3167063.jpg&f=1&nofb=1&ipt=e25a400b7418547427161eab78bed4b82ecf8f23dd98f5b29206b5bf11dc12c7&ipo=images" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
-</p>
-
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SX54C9oCX5JODiAiXIUOSQHaFZ%26pid%3DApi&f=1&ipt=1b00ddb30206ab6c886bf4a9f2a19d30b542543721db9dd09672a3793e9e229d&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3167063.jpg&f=1&nofb=1&ipt=e25a400b7418547427161eab78bed4b82ecf8f23dd98f5b29206b5bf11dc12c7&ipo=images" alt="Theoretical Physics" width="100" height="100"><br><b>Theoretical Physics</b>
+      </td>
+      <td align="center">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SX54C9oCX5JODiAiXIUOSQHaFZ%26pid%3DApi&f=1&ipt=1b00ddb30206ab6c886bf4a9f2a19d30b542543721db9dd09672a3793e9e229d&ipo=images" alt="Nuclear Physics" width="100" height="100"><br><b>Nuclear Physics</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ```json
