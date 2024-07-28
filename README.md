@@ -76,10 +76,10 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Einstein_equation.svg" alt="Theoretical Physics" width="60" height="60"><br>Theoretical Physics
 </p>
-- Nuclear Physics
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Atomic_nucleus.svg" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.imgbin.com%2F21%2F6%2F4%2Fimgbin-science-symbol-nuclear-physics-science-symbol-aM1GzbfHFC7B4AiAKk0qTchDE.jpg&f=1&nofb=1&ipt=4ea74913682fbdab62d88635f21b8d8a2ddae4d81537652cf35115e4d7a0b9e9&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
 </p>
+
 ```json
  {
     "subject_areas": ["theoretical physics", "nuclear physics"],
