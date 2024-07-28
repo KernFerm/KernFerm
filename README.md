@@ -28,7 +28,6 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 - ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 - ![Learning C](https://img.shields.io/badge/-Learning_C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-
 ### Languages
 - ![English](https://img.shields.io/badge/-English-0073CF?style=flat-square&logoColor=white&labelColor=0073CF&logo=flag&logoColor=white) 🇺🇸
 - ![Russian](https://img.shields.io/badge/-Russian-0033A0?style=flat-square&logoColor=white&labelColor=0033A0&logo=flag&logoColor=white) 🇷🇺
@@ -40,6 +39,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 - ![French](https://img.shields.io/badge/-French-0055A4?style=flat-square&logoColor=white&labelColor=0055A4&logo=flag&logoColor=white) 🇫🇷
 - ![Portuguese](https://img.shields.io/badge/-Portuguese-006600?style=flat-square&logoColor=white&labelColor=006600&logo=flag&logoColor=white) 🇵🇹
 - ![Croatian](https://img.shields.io/badge/-Croatian-001F7D?style=flat-square&logoColor=white&labelColor=001F7D&logo=flag&logoColor=white) 🇭🇷
+
 
 ### Tools & Frameworks
 - Node.js
