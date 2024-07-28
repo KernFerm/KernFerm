@@ -29,6 +29,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fcss.gif&f=1&nofb=1&ipt=6ee730516dddcab61818c5ad5e1e335b66e91e8cebc40c3dc89f645034e0c8c7&ipo=images" alt="CSS3" width="60" height="60">
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcmapspublic.ihmc.us%2Frid%3D1H4QDH3D7-1ZK8Z64-VTJ%2Fgears-animation.gif&f=1&nofb=1&ipt=1a2911e1cd8f728780cbfec9bb38238757900f11de73a4ca00917a6208bf9604&ipo=images" alt="Batch Script" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60">
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60">
     <p style="font-size: 14px; color: #00599C;">Learning</p>
