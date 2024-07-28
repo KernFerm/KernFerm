@@ -19,14 +19,15 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 
 ## Skills
 ### Programming Languages
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 40px;">
-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/Batch_Script-4A4A4A?style=for-the-badge&logo=windows&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" style="height: 40px;">
-- <img src="https://img.shields.io/badge/Learning_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Batch Script" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" style="height: 40px;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="height: 40px;">
+
 
 
 ### Languages
