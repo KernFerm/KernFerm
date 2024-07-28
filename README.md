@@ -30,8 +30,10 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60">
   <img src="https://img.icons8.com/ios-filled/50/000000/gear.png" alt="Batch Script" width="60" height="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60">
-  <span style="font-size: 14px; color: #00599C;">Learning</span>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60">
+    <p style="font-size: 14px; color: #00599C;">Learning</p>
+  </div>
 </p>
 
 ## Languages
