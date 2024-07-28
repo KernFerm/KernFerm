@@ -77,7 +77,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 </p>
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnuclear-power.com%2Fwp-content%2Fuploads%2F2014%2F12%2FStructure-of-Matter.jpg&f=1&nofb=1&ipt=408e521d0327797be8b07b6e7c8fe2de0e4b60b3bdfec7dc3dd8b89bd9d2d476&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SX54C9oCX5JODiAiXIUOSQHaFZ%26pid%3DApi&f=1&ipt=1b00ddb30206ab6c886bf4a9f2a19d30b542543721db9dd09672a3793e9e229d&ipo=images" alt="Nuclear Physics" width="60" height="60"><br>Nuclear Physics
 </p>
 
 ```json
