@@ -30,16 +30,16 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 
 
 ### Languages
-- English 🇺🇸
-- Russian 🇷🇺
-- Vietnamese 🇻🇳
-- Korean 🇰🇷
-- Turkish 🇹🇷
-- Chinese (Simplified) 🇨🇳
-- Chinese (Traditional) 🇨🇳
-- French 🇫🇷
-- Portuguese 🇵🇹
-- Croatian 🇭🇷
+- ![English](https://img.shields.io/badge/-English-0073CF?style=flat-square&logoColor=white&labelColor=0073CF&logo=flag&logoColor=white) 🇺🇸
+- ![Russian](https://img.shields.io/badge/-Russian-0033A0?style=flat-square&logoColor=white&labelColor=0033A0&logo=flag&logoColor=white) 🇷🇺
+- ![Vietnamese](https://img.shields.io/badge/-Vietnamese-DA251D?style=flat-square&logoColor=white&labelColor=DA251D&logo=flag&logoColor=white) 🇻🇳
+- ![Korean](https://img.shields.io/badge/-Korean-0033A0?style=flat-square&logoColor=white&labelColor=0033A0&logo=flag&logoColor=white) 🇰🇷
+- ![Turkish](https://img.shields.io/badge/-Turkish-E30A17?style=flat-square&logoColor=white&labelColor=E30A17&logo=flag&logoColor=white) 🇹🇷
+- ![Chinese (Simplified)](https://img.shields.io/badge/-Chinese%20(Simplified)-DE2910?style=flat-square&logoColor=white&labelColor=DE2910&logo=flag&logoColor=white) 🇨🇳
+- ![Chinese (Traditional)](https://img.shields.io/badge/-Chinese%20(Traditional)-DE2910?style=flat-square&logoColor=white&labelColor=DE2910&logo=flag&logoColor=white) 🇨🇳
+- ![French](https://img.shields.io/badge/-French-0055A4?style=flat-square&logoColor=white&labelColor=0055A4&logo=flag&logoColor=white) 🇫🇷
+- ![Portuguese](https://img.shields.io/badge/-Portuguese-006600?style=flat-square&logoColor=white&labelColor=006600&logo=flag&logoColor=white) 🇵🇹
+- ![Croatian](https://img.shields.io/badge/-Croatian-001F7D?style=flat-square&logoColor=white&labelColor=001F7D&logo=flag&logoColor=white) 🇭🇷
 
 ### Tools & Frameworks
 - Node.js
