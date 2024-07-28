@@ -59,13 +59,17 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
   </tr>
 </table>
 
+## Tools & Frameworks
 
-
-
-### Tools & Frameworks
-- Node.js
-- React
-- Django
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"><br>Node.js</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1183%2F1183621.png&f=1&nofb=1&ipt=62364c9be4fa4b6ea422a501d72f42f58d4e6517316036c837ff5bedbd36d0d7&ipo=images" alt="React" width="60" height="60"><br>React</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="60" height="60"><br>Django</td>
+    </tr>
+  </table>
+</p>
 
 ## Science
 - Theoretical Physics
