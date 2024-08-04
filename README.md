@@ -1,7 +1,7 @@
 # Hi there, I'm Bubbles
 
 ## About Me
-- Streamer / Software Developer / Programmer / Software Engineer / Web Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
+- Streamer / Software Developer / Programmer / Software Engineer / Web Developer / Full Stack Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
 - Passionate about gaming, coding, and helping others 🎮💻❤️
 - I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
