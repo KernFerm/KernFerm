@@ -6,8 +6,6 @@
 - I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
-- 🌟 I Own and Operate a Non-profit Charity for Disabled Gamers - fnbubbles420 org 🌟
-https://fnbubbles420.org/ourmission
 
 ```
 𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
