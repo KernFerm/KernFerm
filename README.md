@@ -105,9 +105,7 @@ If you enjoy my work, consider supporting me: *Coming Soon!!*
 
 ## Discord
 
-- owner is Bubbles [**Fnbubbles420 Non Profit Org**](https://discord.fnbubbles420.org/invite)
-
-- owner is Bubbles [**Bubbles Dev Community**](https://discord.gg/NT38Va6vQA)
+- owner is Bubbles/Bubbles The Dev [**Fnbubbles420 Org - Promo / Gaming & Developer Community**](https://discord.fnbubbles420.org/invite)
 
 - owner is Elijah [**Rootkit Dev Community**](https://discord.gg/rootkitorg)
 
