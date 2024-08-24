@@ -98,8 +98,8 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ## Get in Touch
 - **Email:** kernferm@gmail.com
 - **Website:** [fnbubbles420.org](https://fnbubbles420.org)
-[Discord.fnbubbles420.org](https://discord.fnbubbles420.org)
-[gitprojects.fnbubbles420.org](https://gitprojects.fnbubbles420.org)
+- [Discord.fnbubbles420.org](https://discord.fnbubbles420.org)
+- [gitprojects.fnbubbles420.org](https://gitprojects.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/KernFerm)
 
 ## Support
@@ -108,8 +108,6 @@ If you enjoy my work, consider supporting me: *Coming Soon!!*
 ## Discord
 
 - owner is Bubbles/Bubbles The Dev [**Fnbubbles420 Org - Promo / Gaming & Developer Community - Nonprofit Charity**](https://discord.fnbubbles420.org/invite)
-
-- owner is Elijah [**Rootkit Dev Community**](https://discord.gg/rootkitorg)
 
 -----
 ## License
