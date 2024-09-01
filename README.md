@@ -118,3 +118,8 @@ This project is licensed under the [Custom License](https://github.com/KernFerm/
 
 **![GitHub followers](https://img.shields.io/github/followers/KernFerm?label=Follow&style=social)**
 **![GitHub stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)**
+
+
+## Achievements
+
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
