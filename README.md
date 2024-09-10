@@ -100,7 +100,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 - **Website:**
 - [fnbubbles420.org](https://fnbubbles420.org)
 - [discord fnbubbles420](https://discord.fnbubbles420.org)
-- [git hub projects](https://gitprojects.fnbubbles420.org)
+- [github projects](https://gitprojects.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/KernFerm)
 
 ## Support
