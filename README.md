@@ -99,6 +99,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
 - [fnbubbles420.org](https://fnbubbles420.org)
+- [discord fnbubbles420](https://discord.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/KernFerm)
 
 ## Support
