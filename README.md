@@ -132,5 +132,11 @@ This project is licensed under the [Custom License](https://github.com/KernFerm/
 
 ## Achievements
 
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![Quick Draw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+<div align="center">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="400"/>
+</div>
+
+<div align="center">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quick Draw" width="400"/>
+</div>
+
