@@ -113,10 +113,9 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ## Support
 If you enjoy my work, consider supporting me: *Coming Soon!!*
 
-## Discord
+## Discord Link
 
-- owner is Bubbles/Bubbles The Dev [**Fnbubbles420 Org - Promo / Gaming & Developer Community - Nonprofit Charity**](https://discord.fnbubbles420.org/invite)
-- Direct W/O webpage [Fnbubbles420 Org Community Discord Server - Direct W/O webpage](https://discord.gg/9JgFJqfu4G)
+- Owner is Bubbles/Bubbles The Dev **[Fnbubbles420 Org Community](https://discord.fnbubbles420.org/invite)**
 
 -----
 ## License
