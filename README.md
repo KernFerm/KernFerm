@@ -12,7 +12,7 @@
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
 - 🌟 I Own and Operate a Non-profit Charity for Disabled Gamers and Developers of all levels as well as Disabled Veterans - fnbubbles420 org 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)
-- [Fnbubbles420 Org Community Discord Server](https://www.discord.fnbubbles420.org/invite)
+- **[DISCORD INVITE](https://discord.com/invite/8kbgcEugQu)**
 - if you are a Developer **ping Bubbles** and he will give you `developer role`.
 
 ```
@@ -115,7 +115,7 @@ If you enjoy my work, consider supporting me: *Coming Soon!!*
 
 ## Discord Link
 
-- Owner is Bubbles/Bubbles The Dev **[Fnbubbles420 Org Community](https://discord.fnbubbles420.org/invite)**
+- Owner is Bubbles/Bubbles The Dev **[DISCORD INVITE](https://discord.com/invite/8kbgcEugQu)**
 
 -----
 ## License
