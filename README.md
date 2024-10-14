@@ -73,12 +73,26 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"><br>Node.js</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1183%2F1183621.png&f=1&nofb=1&ipt=62364c9be4fa4b6ea422a501d72f42f58d4e6517316036c837ff5bedbd36d0d7&ipo=images" alt="React" width="60" height="60"><br>React</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.djangoproject.com%2Fimg%2Flogos%2Fdjango-logo-negative.1d528e2cb5fb.png&f=1&nofb=1&ipt=5960d22ff7dd716a5df57d92e2f2acc12a5942651f3bd2700b07852e64646429&ipo=images" alt="Django" width="60" height="60"><br>Django</td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+             alt="Node.js" width="60" height="60"><br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1183%2F1183621.png&f=1&nofb=1&ipt=62364c9be4fa4b6ea422a501d72f42f58d4e6517316036c837ff5bedbd36d0d7&ipo=images" 
+             alt="React" width="60" height="60"><br>React
+      </td>
+      <td align="center">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.djangoproject.com%2Fimg%2Flogos%2Fdjango-logo-negative.1d528e2cb5fb.png&f=1&nofb=1&ipt=5960d22ff7dd716a5df57d92e2f2acc12a5942651f3bd2700b07852e64646429&ipo=images" 
+             alt="Django" width="60" height="60"><br>Django
+      </td>
+      <td align="center">
+        <img src="https://camo.githubusercontent.com/91107ff0eb74e2d111c5229d8cecfb0d7fc62ad121280056bc46c5af66315cbe/68747470733a2f2f313030306d61726361732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30322f446f636b65722d4c6f676f2e706e67" 
+             alt="Docker" width="60" height="60"><br>Docker
+      </td>
     </tr>
   </table>
 </p>
+
 
 ## Science
 
