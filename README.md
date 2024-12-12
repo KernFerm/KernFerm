@@ -11,7 +11,7 @@
 - I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠, multidisciplinary expertise with superior autobiographical memory.
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
-- 🌟 President & Founder of FNBUBBLES420 ORG we support Disabled Gamers, Streamers, and Developers of all levels as well as Disabled Veterans
+- 🌟 President & Founder of FNBUBBLES420 ORG We Are A NonProfit Charity Dedicated To Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
 - ### **[DISCORD INVITE](https://discord.gg/WvqTu92aMs)**
 - Developers **ping Bubbles** & i will give you `developer role`.
