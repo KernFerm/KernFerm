@@ -13,8 +13,8 @@
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
 - 🌟 President & Founder of FNBUBBLES420 ORG We Are A NonProfit Charity Dedicated To Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### **[DISCORD INVITE](https://discord.gg/WvqTu92aMs)**
-- Developers **ping Bubbles** & i will give you `developer role`.
+- ### **[DISCORD INVITE](https://discord.fnbubbles420.org/invite)**
+
 
 ```
 𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
