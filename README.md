@@ -129,7 +129,7 @@ If you enjoy my work, consider supporting me: *Coming Soon!!*
 
 ## Discord Link
 
-- Owner is Bubbles/Bubbles The Dev **[DISCORD INVITE](https://discord.gg/WvqTu92aMs)**
+- Owner is Bubbles/Bubbles The Dev **[DISCORD INVITE](https://discord.fnbubbles420.org/invite)**
 
 -----
 ## License
