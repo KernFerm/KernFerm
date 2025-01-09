@@ -8,7 +8,7 @@
 ## About Me
 - Streamer / Software Developer / Programmer / Software Engineer / Web Developer / Full Stack Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
 - Passionate about gaming, coding, and helping others 🎮💻❤️
-- I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠, multidisciplinary expertise with superior autobiographical memory.
+- I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠, multidisciplinary expertise with superior autobiographical memory. yes i am an intellectual.
 - I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
 - 🌟 President & Founder of FNBUBBLES420 ORG We Are A NonProfit Charity Dedicated To Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
