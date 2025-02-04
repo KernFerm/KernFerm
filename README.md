@@ -116,6 +116,12 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
     "current_status": "still learning and teaching myself"
 }
 ```
+
+![Bar Graph](/images/graph.png)
+
+
+
+
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
