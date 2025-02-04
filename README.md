@@ -117,7 +117,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 }
 ```
 
-![Bar Graph](/images/graph.png)
+
 
 
 
