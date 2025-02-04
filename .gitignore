@@ -1,0 +1,12 @@
+# Ignore image files
+*.png
+*.jpeg
+*.ico
+
+# Ignore all other files (commented out as this is unusual)
+# *
+
+# Additional common files to ignore (if needed)
+*.log
+*.tmp
+node_modules/
