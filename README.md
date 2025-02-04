@@ -118,6 +118,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
 
 
+![Bar Graph](/graph/graph.png)
 
 
 
