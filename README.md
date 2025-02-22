@@ -129,7 +129,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 - [fnbubbles420.org](https://fnbubbles420.org)
 - [discord.fnbubbles420.org](https://discord.fnbubbles420.org)
 - [gitprojects.fnbubbles420.org](https://gitprojects.fnbubbles420.org)
-- **Twitter:** [@KernFerm](https://twitter.com/KernFerm)
+- **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
 
 ## Support
 If you enjoy my work, consider supporting me: *Coming Soon!!*
