@@ -128,11 +128,6 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 ```
 
 
-![Bar Graph](/graph/graph.png)
-
-
-
-
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
