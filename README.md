@@ -13,7 +13,7 @@
 - My goal is to make the world a better place and achieve a computer science certification 🌍📜
 - 🌟 President & Founder of FNBUBBLES420 ORG We Are A NonProfit Charity Dedicated To Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### **[DISCORD INVITE](https://discord.fnbubbles420.org/invite)**
+- ### **[DISCORD INVITE](https://discord.gg/v86pMjnBRn)**
 
 
 ```
