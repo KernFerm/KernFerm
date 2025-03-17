@@ -1,4 +1,4 @@
-# Hi there, I'm Bubbles
+# Im Bubbles The Dev
 
 ## About Me
 
