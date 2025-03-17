@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="https://github.com/KernFerm/KernFerm/blob/main/Logo/bubbles_the_Dev.png" alt="bubbles_the_dev_logo_2" width="200"/>
-</div>
-
-
 # Hi there, I'm Bubbles
 
 ## About Me
