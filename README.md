@@ -43,8 +43,8 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"><br>Learned</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"><br>Learned</td>
       <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" alt=F Sharp" width="60"><br>Learned>/td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"><br>Going To Learn</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" alt="F Sharp" width="60" height="60"><br>Learned</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"><br>Going to Learn</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"><br>Going to Learn</td>
     </tr>
   </table>
