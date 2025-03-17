@@ -6,13 +6,27 @@
 # Hi there, I'm Bubbles
 
 ## About Me
-- Streamer / Software Developer / Programmer / Software Engineer / Web Developer / Full Stack Developer / DevOps Engineer / Data Scientist / Multilingual Customer Support Engineer / Research Scientist / Technical Consultant / Localization Engineer / International Project Manager / Cloud Engineer / Security Engineer / Academic Researcher / Technical Writer / Blockchain Developer / Artificial Intelligence Engineer / IoT Developer
-- Passionate about gaming, coding, and helping others 🎮💻❤️
-- I have PTSD, ADHD, Autism, RA, and Seizures 💡🧠, multidisciplinary expertise with superior autobiographical memory. yes i am an intellectual.
-- I love my family and my pets: 3 dogs, 2 cats, 2 guinea pigs, and 1 rabbit 🐶🐱🐹🐰❤️
-- My goal is to make the world a better place.
-- I teach physics 🧪, coding & programming 💻.
-- 🌟 President & Founder of FNBUBBLES420 ORG We Are A NonProfit Charity Dedicated To Empowering Disabled Gamers, Streamers, Developers, and Veterans to Make a Difference!
+
+- **Occupations**: Streamer, Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
+- **Passions**: Gaming 🎮, coding 💻, and helping others ❤️.
+- **Challenges**: PTSD, ADHD, Autism, RA (Rheumatoid Arthritis), Seizures 💡🧠.
+- **Family and Pets**: I love my family and my pets, which include 3 dogs 🐶, 2 cats 🐱, 2 guinea pigs 🐹, and 1 rabbit 🐰.
+- **Goals**: Making the world a better place 🌍.
+- **Teaching**: Physics 🧪, coding & programming 💻.
+
+### Twitch and Development
+- Twitch Streamer/Affiliate and Active Developer.
+- **Role**: President & Founder of [FNBUBBLES420 ORG](https://www.fnbubbles420.org), a nonprofit dedicated to empowering disabled gamers, streamers, developers, and veterans. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries.
+
+### Personal Interests
+- **Hobbies**: Hanging with my furbabies 🐾, playing video games 🎮, working with Visual Studio Code 💻.
+- **Learning Goals**: Continuously learning new things and improving my skills. Currently, I want to learn Astrophysics 🌌.
+- **Community Involvement**: Actively involved in helping my local community, rescuing animals 🐾, and saving lives 🛡️.
+
+## Contact Me
+- **Email**: [bubblesthedev@fnbubbles420.org](mailto:bubblesthedev@fnbubbles420.org)
+- **Twitch**: [Bubbles The Dev](https://www.twitch.tv/fnbubbles420org)
+
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
 - ### **[DISCORD INVITE](https://discord.gg/v86pMjnBRn)**
 
