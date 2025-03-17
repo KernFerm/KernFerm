@@ -25,7 +25,14 @@
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
 - ### **[DISCORD INVITE](https://discord.gg/v86pMjnBRn)**
 
-
+## Get in Touch
+- **Email:** BubblesTheDev@fnbubbles420.org
+- **Website:**
+- [fnbubbles420.org](https://fnbubbles420.org)
+- [discord.fnbubbles420.org](https://discord.fnbubbles420.org)
+- [gitprojects.fnbubbles420.org](https://gitprojects.fnbubbles420.org)
+- **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
+ 
 ```
 𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
 
@@ -126,22 +133,6 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
     "current_status": "still learning and teaching myself"
 }
 ```
-
-
-## Get in Touch
-- **Email:** BubblesTheDev@fnbubbles420.org
-- **Website:**
-- [fnbubbles420.org](https://fnbubbles420.org)
-- [discord.fnbubbles420.org](https://discord.fnbubbles420.org)
-- [gitprojects.fnbubbles420.org](https://gitprojects.fnbubbles420.org)
-- **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
-
-## Support
-If you enjoy my work, consider supporting me: *Coming Soon!!*
-
-## Discord Link
-
-- Owner is Bubbles/Bubbles The Dev **[DISCORD INVITE](https://discord.fnbubbles420.org/invite)**
 
 -----
 ## License
