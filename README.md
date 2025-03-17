@@ -44,7 +44,7 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"><br>Learned</td>
       <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60"><br>Learned</td>
       <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" alt="F Sharp" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1200/1*LhiIj_m5QjCP5-1t6_ThXQ.jpeg" alt="Kotlin" width="60" height="60"><br>Learning</td>
+      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkotlinlang.org%2Fassets%2Fimages%2Ftwitter%2Fgeneral.png&f=1&nofb=1&ipt=97b4e328337b65f62e33a3a996938419f922cad2b063b6d161ba7605cc24650d&ipo=images" alt="Kotlin" width="60" height="60"><br>Learning</td>
     </tr>
   </table>
 </p>
