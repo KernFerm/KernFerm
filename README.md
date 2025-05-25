@@ -20,16 +20,17 @@
 
 ## Contact Me
 - **Email**: [bubblesthedev@fnbubbles420.org](mailto:bubblesthedev@fnbubbles420.org)
-- **Twitch**: [Bubbles The Dev](https://www.twitch.tv/fnbubbles420org)
+- **Twitch**: [Bubbles The Dev](https://twitch.tv/bubblesthedev)
+- **Twitch**: [FNBubbles420 Org](https://twitch.tv/fnbubbles420org
 
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### **[DISCORD INVITE](https://discord.gg/v86pMjnBRn)**
+- ### **[DISCORD INVITE](https://discord.gg/FxJd3PxXbc)**
 
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
 - [fnbubbles420.org](https://fnbubbles420.org)
-- [discord.fnbubbles420.org](https://discord.fnbubbles420.org)
+- [discord.fnbubbles420.org](https://discord.gg/FxJd3PxXbc)
 - [bubblesphysics.fnbubbles420.org](https://bubblesphysics.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
  
