@@ -18,13 +18,9 @@
 - **Learning Goals**: Continuously learning new things and improving my skills. Currently, I want to learn Astrophysics 🌌.
 - **Community Involvement**: Actively involved in helping my local community, rescuing animals 🐾, and saving lives 🛡️.
 
-## Contact Me
-- **Email**: [bubblesthedev@fnbubbles420.org](mailto:bubblesthedev@fnbubbles420.org)
-- **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
-- **Twitch**: `FNBubbles420 Org` [https://twitch.tv/fnbubbles420org](https://twitch.tv/fnbubbles420org)
-
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
 - ### **[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)**
+- **Twitch**: `FNBubbles420 Org` [https://twitch.tv/fnbubbles420org](https://twitch.tv/fnbubbles420org)
 
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
@@ -33,6 +29,8 @@
 - [discord.fnbubbles420.org](https://discord.gg/FxJd3PxXbc)
 - [bubblesphysics.fnbubbles420.org](https://bubblesphysics.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
+- **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
+
  
 ```
 𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
