@@ -20,11 +20,11 @@
 
 ## Contact Me
 - **Email**: [bubblesthedev@fnbubbles420.org](mailto:bubblesthedev@fnbubbles420.org)
-- **Twitch**: [Bubbles The Dev](https://twitch.tv/bubblesthedev)
-- **Twitch**: [FNBubbles420 Org](https://twitch.tv/fnbubbles420org
+- **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
+- **Twitch**: `FNBubbles420 Org` [https://twitch.tv/fnbubbles420org](https://twitch.tv/fnbubbles420org)
 
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### **[DISCORD INVITE](https://discord.gg/FxJd3PxXbc)**
+- ### **[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)**
 
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
