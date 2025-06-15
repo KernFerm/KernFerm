@@ -46,23 +46,20 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 # Skills
 
 ## Programming Languages
+`12 and counting`
+- **Python 🐍**
+- **JavaScript 💻**
+- **TypeScript 📝**
+- **HTML 🌐**
+- **CSS 🎨**
+- **Batch Script 📜**
+- **PowerShell ⚙️**
+- **Rust 🦀**
+- **F#**
+- **C#**
+- **Kotlin**
+- **GO**
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fi%2Fbac5a6f3-7da6-428a-876a-083bae453a5c%2Fd6qw809-4735186b-d16f-491d-987e-53178cc6beec.gif&f=1&nofb=1&ipt=05783075d1e4f61e33e4bbb94449d7fcd484b317092d1019a21fb6c39be89d09&ipo=images" alt="Python" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fjavascript.gif&f=1&nofb=1&ipt=63623e2f03545c01d507c0e190f0ec8e9fc86e6948290df7b5105cfcd58dcb63&ipo=images" alt="JavaScript" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXAxylRMCdpbEWUAvr8%2Fgiphy.gif&f=1&nofb=1&ipt=9812cf0f262ee73ad0d5141b9fbde914e7ed2a1def05ab03175a97adedddea98&ipo=images" alt="HTML5" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fbeingabeer%2Fbeingabeer%2Fmaster%2Flogo%2Fcss.gif&f=1&nofb=1&ipt=6ee730516dddcab61818c5ad5e1e335b66e91e8cebc40c3dc89f645034e0c8c7&ipo=images" alt="CSS3" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcmapspublic.ihmc.us%2Frid%3D1H4QDH3D7-1ZK8Z64-VTJ%2Fgears-animation.gif&f=1&nofb=1&ipt=1a2911e1cd8f728780cbfec9bb38238757900f11de73a4ca00917a6208bf9604&ipo=images" alt="Batch Script" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodinginfinite.com%2Fwp-content%2Fuploads%2F2018%2F12%2Frust.gif&f=1&nofb=1&ipt=a22f706da3e2d43e8918a31877446bfee6af0e9ce1e31575797093b02a91ad8e&ipo=images" alt="Rust" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" alt="F Sharp" width="60" height="60"><br>Learned</td>
-      <td align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkotlinlang.org%2Fassets%2Fimages%2Ftwitter%2Fgeneral.png&f=1&nofb=1&ipt=97b4e328337b65f62e33a3a996938419f922cad2b063b6d161ba7605cc24650d&ipo=images" alt="Kotlin" width="60" height="60"><br>Learning</td>
-    </tr>
-  </table>
-</p>
 
 ## Languages
 
