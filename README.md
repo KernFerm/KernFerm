@@ -19,14 +19,14 @@
 - **Community Involvement**: Actively involved in helping my local community, rescuing animals 🐾, and saving lives 🛡️.
 
 - ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### **[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)**
+- ### **[https://discord.gg/Y3w35vMS](https://discord.gg/Y3w35vMS)**
 - **Twitch**: `FNBubbles420 Org` [https://twitch.tv/fnbubbles420org](https://twitch.tv/fnbubbles420org)
 
 ## Get in Touch
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
 - [fnbubbles420.org](https://fnbubbles420.org)
-- [https://discord.gg/Y3w35vMS](https://discord.gg/Y3w35vMS)
+- [Discord](https://discord.gg/Y3w35vMS)
 - [bubblesphysics.fnbubbles420.org](https://bubblesphysics.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
 - **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
@@ -140,4 +140,5 @@ This project is licensed under the [Custom License](https://github.com/KernFerm/
 ---
 
 # **Thank you for visiting my profile !!! 😊**
+
 
