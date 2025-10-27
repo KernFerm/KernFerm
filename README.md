@@ -26,7 +26,6 @@
 - **Email:** BubblesTheDev@fnbubbles420.org
 - **Website:**
 - [fnbubbles420.org](https://fnbubbles420.org)
-- [Discord](https://discord.gg/Y3w35vMS)
 - [bubblesphysics.fnbubbles420.org](https://bubblesphysics.fnbubbles420.org)
 - **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
 - **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
@@ -140,6 +139,7 @@ This project is licensed under the [Custom License](https://github.com/KernFerm/
 ---
 
 # **Thank you for visiting my profile !!! 😊**
+
 
 
 
