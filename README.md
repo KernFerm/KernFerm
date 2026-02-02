@@ -5,7 +5,7 @@
 - **Occupations**: Streamer, Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
 - **Passions**: Gaming 🎮, coding 💻, and helping others ❤️.
 - **Challenges**: PTSD, ADHD, Autism, RA (Rheumatoid Arthritis), Seizures 💡🧠.
-- **Family and Pets**: I love my family and my pets, which include 3 dogs 🐶, 2 cats 🐱, 2 guinea pigs 🐹, and 1 rabbit 🐰.
+- **Family and Pets**: I love my family and my pets, which include 5 dogs 🐶, 2 cats 🐱, 2 guinea pigs 🐹, and 1 rabbit 🐰.
 - **Goals**: Making the world a better place 🌍.
 - **Teaching**: Physics 🧪, coding & programming 💻.
 
