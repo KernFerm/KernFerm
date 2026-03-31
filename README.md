@@ -2,7 +2,10 @@
 
 ## About Me
 
-- **Occupations**: Streamer, Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
+- **Occupations**: Streamer, Principal Engineer.
+- President & Founder of [FNBUBBLES420 ORG](https://www.fnbubbles420.org), a nonprofit dedicated to empowering disabled gamers, streamers, students, developers, and veterans. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries.
+
+- **Other Occupations**: Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
 - **Passions**: Gaming 🎮, coding 💻, and helping others ❤️.
 - **Challenges**: PTSD, ADHD, Autism, RA (Rheumatoid Arthritis), Seizures 💡🧠.
 - **Family and Pets**: I love my family and my pets, which include 5 dogs 🐶, 2 cats 🐱, 2 guinea pigs 🐹, and 1 rabbit 🐰.
@@ -11,7 +14,6 @@
 
 ### Twitch and Development
 - Twitch Streamer/Affiliate and Active Developer.
-- **Role**: President & Founder of [FNBUBBLES420 ORG](https://www.fnbubbles420.org), a nonprofit dedicated to empowering disabled gamers, streamers, developers, and veterans. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries.
 
 ### Personal Interests
 - **Hobbies**: Hanging with my furbabies 🐾, playing video games 🎮, working with Visual Studio Code 💻.
