@@ -2,7 +2,7 @@
 
 ## About Me
 
-- **Occupations**: Streamer, Principal Engineer.
+- **Occupations**: Streamer, Principal Engineer, Systems Architect.
 - President & Founder of [FNBUBBLES420 ORG](https://www.fnbubbles420.org), a nonprofit dedicated to empowering disabled gamers, streamers, students, developers, and veterans. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries.
 
 - **Other Occupations**: Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
