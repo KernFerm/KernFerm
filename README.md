@@ -47,19 +47,24 @@ Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
 # Skills
 
 ## Programming Languages
-`12 and counting`
-- **Python 🐍**
-- **JavaScript 💻**
-- **TypeScript 📝**
-- **HTML 🌐**
-- **CSS 🎨**
-- **Batch Script 📜**
-- **PowerShell ⚙️**
-- **Rust 🦀**
+`17 and counting`
+- **Python**
+- **JavaScript**
+- **TypeScript**
+- **HTML**
+- **CSS**
+- **Batch Script**
+- **PowerShell**
+- **Rust**
 - **F#**
 - **C#**
 - **Kotlin**
 - **GO**
+- **C++**
+- **Shell**
+- **Gherkin**
+- **Java**
+- **Delphi**
 
 
 ## Languages
