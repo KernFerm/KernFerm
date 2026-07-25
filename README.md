@@ -105,6 +105,7 @@ Full Stack Development
 🐱 2 Cats<br>
 🐹 2 Guinea Pigs<br>
 🐰 1 Rabbit
+🐍 2 Garter Snakes
 
 </td>
 
