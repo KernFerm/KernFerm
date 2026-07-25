@@ -190,34 +190,13 @@ Learn more about our nonprofit mission:
 
 ## 📬 Get in Touch
 
-<table>
-  <tr>
-    <td width="50%">
+[![Website](https://img.shields.io/badge/Website-fnbubbles420.org-blue?style=for-the-badge)](https://fnbubbles420.org)
+[![Physics](https://img.shields.io/badge/Physics-Website-green?style=for-the-badge)](https://bubblesphysics.fnbubbles420.org)
+[![Email](https://img.shields.io/badge/Email-BubblesTheDev@fnbubbles420.org-red?style=for-the-badge)](mailto:BubblesTheDev@fnbubbles420.org)
 
-**📧 Email**  
-[BubblesTheDev@fnbubbles420.org](mailto:BubblesTheDev@fnbubbles420.org)
-
-**🌐 Nonprofit Website**  
-https://fnbubbles420.org
-
-**🧪 Physics Website**  
-https://bubblesphysics.fnbubbles420.org
-
-    </td>
-    <td width="50%">
-
-**𝕏 X / Twitter**  
-[@KernFerm](https://twitter.com/rbubblesthedev)
-
-**💬 Discord**  
-[Join the FNBUBBLES420 Org Community](https://discord.gg/zQbJJgwbUv)
-
-**🎮 Twitch**  
-https://twitch.tv/bubblesthedev
-
-    </td>
-  </tr>
-</table>
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zQbJJgwbUv)
+[![Twitch](https://img.shields.io/badge/Twitch-BubblesTheDev-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/bubblesthedev)
+[![X](https://img.shields.io/badge/X-@KernFerm-black?style=for-the-badge&logo=x)](https://twitter.com/rbubblesthedev)
 
 ---
 
