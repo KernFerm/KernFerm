@@ -21,68 +21,75 @@ I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These experi
 
 ---
 
-## 💻 Technical Skills
+<table>
+<tr>
+
+<td valign="top" width="60%">
+
+<h2>💻 Technical Skills</h2>
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 <h3>Programming Languages</h3>
 
-Python • JavaScript  
-TypeScript • HTML  
-CSS • C#  
-C++ • Java  
-Kotlin • Go  
-Rust • F#  
-Delphi • PowerShell  
-Batch Script • Shell  
+Python • JavaScript<br>
+TypeScript • HTML<br>
+CSS • C#<br>
+C++ • Java<br>
+Kotlin • Go<br>
+Rust • F#<br>
+Delphi • PowerShell<br>
+Batch Script • Shell<br>
 Gherkin
 
 </td>
+
 <td valign="top" width="50%">
 
 <h3>Tools & Technologies</h3>
 
-Node.js • React  
-Django • Docker  
-Git • GitHub  
-Visual Studio Code  
-Cloud Technologies  
-DevOps • Cybersecurity  
-Artificial Intelligence  
+Node.js • React<br>
+Django • Docker<br>
+Git • GitHub<br>
+Visual Studio Code<br>
+Cloud Technologies<br>
+DevOps • Cybersecurity<br>
+Artificial Intelligence<br>
 Full Stack Development
 
 </td>
+
+</tr>
+</table>
+
+</td>
+
+<td valign="top" width="40%">
+
+<h2>🔬 Research Interests</h2>
+
+🧪 Theoretical Physics<br>
+⚛️ Nuclear Physics<br>
+🌌 Astrophysics
+
+<br>
+
+<h2>🐾 Life Outside Coding</h2>
+
+🐶 13 Dogs<br>
+🐱 2 Cats<br>
+🐹 2 Guinea Pigs<br>
+🐰 1 Rabbit
+
+</td>
+
 </tr>
 </table>
 
 ---
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h2>🔬 Research Interests</h2>
-
-🧪 Theoretical Physics  
-⚛️ Nuclear Physics  
-🌌 Astrophysics
-
-</td>
-<td valign="top" width="50%">
-
-<h2>🐾 Life Outside Coding</h2>
-
-🐶 13 Dogs  
-🐱 2 Cats  
-🐹 2 Guinea Pigs  
-🐰 1 Rabbit
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌐 Spoken Languages
