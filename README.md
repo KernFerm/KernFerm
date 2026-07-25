@@ -2,187 +2,133 @@
 
 ### Principal Engineer • Systems Architect • Software Developer • Streamer
 
-I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.org)**, a 501(c)(3) nonprofit organization dedicated to improving accessibility and educational opportunities through technology.
+I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.org)**, a registered 501(c)(3) nonprofit organization dedicated to improving accessibility and educational opportunities through technology.
 
-Our mission supports individuals with disabilities, autism, PTSD, mental health challenges, physical challenges, service-related injuries, veterans, students, gamers, streamers, developers, and families in need.
+Our mission is to empower individuals with disabilities, autism, PTSD, mental health challenges, physical challenges, service-related injuries, veterans, students, gamers, streamers, developers, and families in need through technology, education, and community support.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Software Developer, Programmer, and Engineer
-* 🏗️ Principal Engineer and Systems Architect
-* 🎮 Twitch Streamer and Affiliate
-* 🔐 Security, Cloud, DevOps, and Full Stack Development
-* 🤖 Artificial Intelligence and IoT Development
-* 🌎 Localization and Multilingual Technology
-* 🧪 Physics and programming educator
-* ❤️ Passionate about helping people and improving accessibility
+- 💻 Software Developer, Programmer, and Engineer
+- 🏗️ Principal Engineer & Systems Architect
+- 🎮 Twitch Streamer & Affiliate
+- 🔐 Security, Cloud, DevOps & Full Stack Development
+- 🤖 Artificial Intelligence & IoT Development
+- 🌎 Localization & Multilingual Technology
+- 🧪 Physics Enthusiast & Programming Educator
+- ❤️ Passionate about accessibility and helping others
 
-I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These challenges have strengthened my commitment to creating technology that is accessible, inclusive, and helpful to others.
+I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These experiences have strengthened my commitment to creating technology that is accessible, inclusive, and empowering.
 
 ---
 
 ## 🌍 My Mission
 
-> Build technology that removes barriers, improves lives, and makes the world more accessible for everyone.
+> **Build technology that removes barriers, improves lives, and makes the world more accessible for everyone.**
 
-I enjoy helping my community, rescuing animals, teaching others, developing software, and continuing to expand my knowledge.
+Whether I'm writing software, teaching others, contributing to open source, or leading a nonprofit organization, my goal is to use technology to create positive change.
+
+---
+
+## 🌟 Featured Projects
+
+- 🌐 **Bubbles Browser**
+- 🐧 **Bubbles OS**
+- ♿ **VisualGuide**
+- ❤️ **FNBUBBLES420 Org**
 
 ---
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 `17 and counting`
 
-<table>
-  <tr>
-    <td><b>Python</b></td>
-    <td><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td><b>TypeScript</b></td>
-    <td><b>HTML</b></td>
-  </tr>
-  <tr>
-    <td><b>CSS</b></td>
-    <td><b>C#</b></td>
-  </tr>
-  <tr>
-    <td><b>C++</b></td>
-    <td><b>Java</b></td>
-  </tr>
-  <tr>
-    <td><b>Kotlin</b></td>
-    <td><b>Go</b></td>
-  </tr>
-  <tr>
-    <td><b>Rust</b></td>
-    <td><b>F#</b></td>
-  </tr>
-  <tr>
-    <td><b>Delphi</b></td>
-    <td><b>PowerShell</b></td>
-  </tr>
-  <tr>
-    <td><b>Batch Script</b></td>
-    <td><b>Shell</b></td>
-  </tr>
-  <tr>
-    <td><b>Gherkin</b></td>
-    <td></td>
-  </tr>
-</table>
+| | |
+|:--|:--|
+| Python | JavaScript |
+| TypeScript | HTML |
+| CSS | C# |
+| C++ | Java |
+| Kotlin | Go |
+| Rust | F# |
+| Delphi | PowerShell |
+| Batch Script | Shell |
+| Gherkin | |
 
-  </td>
-  <td valign="top" width="50%">
+</td>
 
-## 🛠️ Tools and Technologies
+<td valign="top" width="50%">
 
-<table>
-  <tr>
-    <td><b>Node.js</b></td>
-    <td><b>React</b></td>
-  </tr>
-  <tr>
-    <td><b>Django</b></td>
-    <td><b>Docker</b></td>
-  </tr>
-  <tr>
-    <td><b>Git</b></td>
-    <td><b>GitHub</b></td>
-  </tr>
-  <tr>
-    <td><b>Visual Studio Code</b></td>
-    <td><b>Cloud Technologies</b></td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td><b>Cybersecurity</b></td>
-  </tr>
-  <tr>
-    <td><b>Artificial Intelligence</b></td>
-    <td><b>Full Stack Development</b></td>
-  </tr>
-</table>
+### 🛠️ Tools & Technologies
 
-  </td>
-  </tr>
+| | |
+|:--|:--|
+| Node.js | React |
+| Django | Docker |
+| Git | GitHub |
+| Visual Studio Code | Cloud Technologies |
+| DevOps | Cybersecurity |
+| Artificial Intelligence | Full Stack Development |
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🔬 Science
+## 🔬 Research Interests
 
-I study and teach myself different areas of physics, including:
+I enjoy studying and teaching myself:
 
-* Theoretical Physics
-* Nuclear Physics
-* Astrophysics
+- 🧪 Theoretical Physics
+- ⚛️ Nuclear Physics
+- 🌌 Astrophysics
 
-Physics helps me better understand the universe while strengthening my problem-solving and software-development skills.
+Physics continues to strengthen my analytical thinking and software engineering skills.
 
 ---
 
-## 🌐 Languages
+## 🌐 Spoken Languages
 
 <table>
-  <tr>
-    <td>🇺🇸 <b>English</b></td>
-    <td>🇧🇬 <b>Bulgarian</b></td>
-    <td>🇷🇺 <b>Russian</b></td>
-    <td>🇻🇳 <b>Vietnamese</b></td>
-  </tr>
-  <tr>
-    <td>🇰🇷 <b>Korean</b></td>
-    <td>🇹🇷 <b>Turkish</b></td>
-    <td>🇨🇳 <b>Chinese (Simplified)</b></td>
-    <td>🇹🇼 <b>Chinese (Traditional)</b></td>
-  </tr>
-  <tr>
-    <td>🇫🇷 <b>French</b></td>
-    <td>🇵🇹 <b>Portuguese</b></td>
-    <td>🇭🇷 <b>Croatian</b></td>
-    <td></td>
-  </tr>
+<tr>
+<td>🇺🇸 English</td>
+<td>🇧🇬 Bulgarian</td>
+<td>🇷🇺 Russian</td>
+<td>🇻🇳 Vietnamese</td>
+</tr>
+<tr>
+<td>🇰🇷 Korean</td>
+<td>🇹🇷 Turkish</td>
+<td>🇨🇳 Chinese (Simplified)</td>
+<td>🇹🇼 Chinese (Traditional)</td>
+</tr>
+<tr>
+<td>🇫🇷 French</td>
+<td>🇵🇹 Portuguese</td>
+<td>🇭🇷 Croatian</td>
+<td></td>
+</tr>
 </table>
-
----
-
----
-
-## 🎮 Gaming and Streaming
-
-I am a Twitch Affiliate who enjoys gaming, streaming, programming, and spending time with my community.
-
-**Personal Twitch:**  
-https://twitch.tv/bubblesthedev
-
-**FNBUBBLES420 Org Twitch:**  
-https://twitch.tv/fnbubbles420org
-
----
-
-## 🐾 My Family and Pets
-
-I love my family and enjoy spending time with my furbabies:
-
-* 🐶 13 dogs
-* 🐱 2 cats
-* 🐹 2 guinea pigs
-* 🐰 1 rabbit
 
 ---
 
 ## 🌟 FNBUBBLES420 Org
 
-Learn more about our nonprofit mission:
+Learn more about our nonprofit and community initiatives.
 
-[Visit Our Mission Page](https://fnbubbles420.org/ourmission)
+🌐 **Website**  
+https://www.fnbubbles420.org
+
+📖 **Our Mission**  
+https://fnbubbles420.org/ourmission
+
+💬 **Discord Community**
 
 [![Join Our Discord](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 
@@ -200,15 +146,26 @@ Learn more about our nonprofit mission:
 
 ---
 
+## 🐾 Life Outside of Coding
+
+When I'm not developing software, I enjoy spending time with my family, caring for my animals, gaming, streaming, and continuing to learn new technologies.
+
+- 🐶 13 Dogs
+- 🐱 2 Cats
+- 🐹 2 Guinea Pigs
+- 🐰 1 Rabbit
+
+---
+
 ## 𓈗 𓇋 𓆎 — Bubbles The Dev
 
-**𓈗 Water:** Represents life, renewal, and the name “Bubbles.”
+**𓈗 Water** — Life, renewal, and the inspiration behind "Bubbles."
 
-**𓇋 Reed Leaf:** Represents “The.”
+**𓇋 Reed Leaf** — Represents "The."
 
-**𓆎 Scarab Beetle:** Represents creation, transformation, and rebirth.
+**𓆎 Scarab Beetle** — Creation, transformation, and rebirth.
 
-Together, the symbols represent:
+Together they symbolize:
 
 > **Life • The • Creator**
 
@@ -216,13 +173,13 @@ Together, the symbols represent:
 
 ## 📜 License
 
-This profile and its original content are protected under the [Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE). All rights reserved.
+This profile and its original content are licensed under my **Custom License**. All Rights Reserved.
 
 ---
 
 ![GitHub Followers](https://img.shields.io/github/followers/KernFerm?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)
 
-# 💙 Thank You for Visiting My Profile!
+# 💙 Thank You for Visiting!
 
-Technology can change lives when it is built with compassion, accessibility, and purpose.
+> *Building technology that empowers people, strengthens accessibility, and helps make the world a better place.*
