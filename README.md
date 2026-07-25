@@ -4,22 +4,22 @@
 
 I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.org)**, a registered 501(c)(3) nonprofit organization dedicated to improving accessibility and educational opportunities through technology.
 
-Our mission is to empower individuals with disabilities, autism, PTSD, mental health challenges, physical challenges, service-related injuries, veterans, students, gamers, streamers, developers, and families in need through technology, education, and community support.
-
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Developer, Programmer, and Engineer
 - 🏗️ Principal Engineer & Systems Architect
-- 🎮 Twitch Streamer & Affiliate
+- 💻 Software Developer, Programmer & Engineer
 - 🔐 Security, Cloud, DevOps & Full Stack Development
 - 🤖 Artificial Intelligence & IoT Development
 - 🌎 Localization & Multilingual Technology
 - 🧪 Physics Enthusiast & Programming Educator
-- ❤️ Passionate about helping people and improving accessibility
+- 🎮 Twitch Streamer & Affiliate
+- ❤️ Passionate about accessibility and helping others
 
 I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These experiences have strengthened my commitment to creating technology that is accessible, inclusive, and empowering.
+
+I enjoy developing software, teaching others, contributing to open source, studying physics, helping my community, rescuing animals, gaming, and streaming.
 
 ---
 
@@ -27,62 +27,105 @@ I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These experi
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
-### Programming Languages
+<h3>💻 Programming Languages</h3>
 
-`17 and counting`
+<p><code>17 and counting</code></p>
 
-| | |
-|:--|:--|
-| Python | JavaScript |
-| TypeScript | HTML |
-| CSS | C# |
-| C++ | Java |
-| Kotlin | Go |
-| Rust | F# |
-| Delphi | PowerShell |
-| Batch Script | Shell |
-| Gherkin | |
+<table>
+<tr>
+<td><b>Python</b></td>
+<td><b>JavaScript</b></td>
+</tr>
+<tr>
+<td><b>TypeScript</b></td>
+<td><b>HTML</b></td>
+</tr>
+<tr>
+<td><b>CSS</b></td>
+<td><b>C#</b></td>
+</tr>
+<tr>
+<td><b>C++</b></td>
+<td><b>Java</b></td>
+</tr>
+<tr>
+<td><b>Kotlin</b></td>
+<td><b>Go</b></td>
+</tr>
+<tr>
+<td><b>Rust</b></td>
+<td><b>F#</b></td>
+</tr>
+<tr>
+<td><b>Delphi</b></td>
+<td><b>PowerShell</b></td>
+</tr>
+<tr>
+<td><b>Batch Script</b></td>
+<td><b>Shell</b></td>
+</tr>
+<tr>
+<td><b>Gherkin</b></td>
+<td></td>
+</tr>
+</table>
 
 </td>
 
 <td valign="top" width="50%">
 
-### Tools & Technologies
+<h3>🛠️ Tools & Technologies</h3>
 
-| | |
-|:--|:--|
-| Node.js | React |
-| Django | Docker |
-| Git | GitHub |
-| Visual Studio Code | Cloud Technologies |
-| DevOps | Cybersecurity |
-| Artificial Intelligence | Full Stack Development |
+<table>
+<tr>
+<td><b>Node.js</b></td>
+<td><b>React</b></td>
+</tr>
+<tr>
+<td><b>Django</b></td>
+<td><b>Docker</b></td>
+</tr>
+<tr>
+<td><b>Git</b></td>
+<td><b>GitHub</b></td>
+</tr>
+<tr>
+<td><b>Visual Studio Code</b></td>
+<td><b>Cloud Technologies</b></td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td><b>Cybersecurity</b></td>
+</tr>
+<tr>
+<td><b>Artificial Intelligence</b></td>
+<td><b>Full Stack Development</b></td>
+</tr>
+</table>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🌟 Featured Projects
-
-- 🌐 **Bubbles Browser**
-- 🐧 **Bubbles OS**
-- ♿ **VisualGuide**
-
----
-
 ## 🔬 Research Interests
 
-I enjoy studying and teaching myself:
+I enjoy studying and teaching myself different areas of physics:
 
-- 🧪 Theoretical Physics
-- ⚛️ Nuclear Physics
-- 🌌 Astrophysics
+<table>
+<tr>
+<td align="center">🧪<br><b>Theoretical Physics</b></td>
+<td align="center">⚛️<br><b>Nuclear Physics</b></td>
+<td align="center">🌌<br><b>Astrophysics</b></td>
+</tr>
+</table>
 
-Physics continues to strengthen my analytical thinking and software engineering skills.
+Physics continues to strengthen my analytical thinking, problem-solving, and software-engineering skills.
 
 ---
 
@@ -90,22 +133,37 @@ Physics continues to strengthen my analytical thinking and software engineering 
 
 <table>
 <tr>
-<td>🇺🇸 English</td>
-<td>🇧🇬 Bulgarian</td>
-<td>🇷🇺 Russian</td>
-<td>🇻🇳 Vietnamese</td>
+<td>🇺🇸 <b>English</b></td>
+<td>🇧🇬 <b>Bulgarian</b></td>
+<td>🇷🇺 <b>Russian</b></td>
+<td>🇻🇳 <b>Vietnamese</b></td>
 </tr>
 <tr>
-<td>🇰🇷 Korean</td>
-<td>🇹🇷 Turkish</td>
-<td>🇨🇳 Chinese (Simplified)</td>
-<td>🇹🇼 Chinese (Traditional)</td>
+<td>🇰🇷 <b>Korean</b></td>
+<td>🇹🇷 <b>Turkish</b></td>
+<td>🇨🇳 <b>Chinese Simplified</b></td>
+<td>🇹🇼 <b>Chinese Traditional</b></td>
 </tr>
 <tr>
-<td>🇫🇷 French</td>
-<td>🇵🇹 Portuguese</td>
-<td>🇭🇷 Croatian</td>
+<td>🇫🇷 <b>French</b></td>
+<td>🇵🇹 <b>Portuguese</b></td>
+<td>🇭🇷 <b>Croatian</b></td>
 <td></td>
+</tr>
+</table>
+
+---
+
+## 🐾 Life Outside of Coding
+
+When I am away from the keyboard, I enjoy spending time with my family, caring for my animals, gaming, streaming, and continuing to learn new things.
+
+<table>
+<tr>
+<td align="center">🐶<br><b>13 Dogs</b></td>
+<td align="center">🐱<br><b>2 Cats</b></td>
+<td align="center">🐹<br><b>2 Guinea Pigs</b></td>
+<td align="center">🐰<br><b>1 Rabbit</b></td>
 </tr>
 </table>
 
@@ -113,13 +171,15 @@ Physics continues to strengthen my analytical thinking and software engineering 
 
 ## 🌟 FNBUBBLES420 Org
 
-Learn more about our nonprofit and community initiatives.
+I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.org)**.
+
+Our mission is to empower individuals with disabilities, autism, PTSD, mental health challenges, physical challenges, service-related injuries, veterans, students, gamers, streamers, developers, and families in need through technology, education, accessibility, and community support.
 
 🌐 **Website**  
-https://www.fnbubbles420.org
+[https://www.fnbubbles420.org](https://www.fnbubbles420.org)
 
 📖 **Our Mission**  
-https://fnbubbles420.org/ourmission
+[https://fnbubbles420.org/ourmission](https://fnbubbles420.org/ourmission)
 
 💬 **Discord Community**
 
@@ -139,26 +199,15 @@ https://fnbubbles420.org/ourmission
 
 ---
 
-## 🐾 Life Outside of Coding
-
-When I'm not developing software, I enjoy spending time with my family, caring for my animals, gaming, streaming, and continuing to learn new technologies.
-
-- 🐶 13 Dogs
-- 🐱 2 Cats
-- 🐹 2 Guinea Pigs
-- 🐰 1 Rabbit
-
----
-
 ## 𓈗 𓇋 𓆎 — BubblesTheDev
 
-**𓈗 Water** — Life, renewal, and the inspiration behind "Bubbles."
+**𓈗 Water** — Represents life, renewal, and the inspiration behind **Bubbles**.
 
-**𓇋 Reed Leaf** — Represents "The."
+**𓇋 Reed Leaf** — Represents **The**.
 
-**𓆎 Scarab Beetle** — Creation, transformation, and rebirth.
+**𓆎 Scarab Beetle** — Represents creation, transformation, and rebirth.
 
-Together they symbolize:
+Together, they symbolize:
 
 > **Life • The • Creator**
 
@@ -166,7 +215,7 @@ Together they symbolize:
 
 ## 📜 License
 
-This profile and its original content are licensed under my **Custom License**. All Rights Reserved.
+This profile and its original content are licensed under my **[Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE)**. All Rights Reserved.
 
 ---
 
