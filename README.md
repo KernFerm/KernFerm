@@ -72,17 +72,28 @@ I enjoy helping my community, rescuing animals, teaching others, developing soft
 
 ## 🛠️ Tools and Technologies
 
-* Node.js
-* React
-* Django
-* Docker
-* Git and GitHub
-* Visual Studio Code
-* Cloud Technologies
-* DevOps
-* Cybersecurity
-* Artificial Intelligence
-* Full Stack Development
+<table>
+  <tr>
+    <td><b>Node.js</b></td>
+    <td><b>React</b></td>
+    <td><b>Django</b></td>
+    <td><b>Docker</b></td>
+  </tr>
+  <tr>
+    <td><b>Git</b></td>
+    <td><b>GitHub</b></td>
+    <td><b>Visual Studio Code</b></td>
+    <td><b>Cloud Technologies</b></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><b>Cybersecurity</b></td>
+    <td><b>Artificial Intelligence</b></td>
+    <td><b>Full Stack Development</b></td>
+  </tr>
+</table>
+
+---
 
 ---
 
