@@ -188,21 +188,36 @@ Learn more about our nonprofit mission:
 
 ---
 
-## 📫 Get in Touch
+## 📬 Get in Touch
 
-**Email:** [BubblesTheDev@fnbubbles420.org](mailto:BubblesTheDev@fnbubbles420.org)
+<table>
+  <tr>
+    <td width="50%">
 
-**Nonprofit Website:**  
+**📧 Email**  
+[BubblesTheDev@fnbubbles420.org](mailto:BubblesTheDev@fnbubbles420.org)
+
+**🌐 Nonprofit Website**  
 https://fnbubbles420.org
 
-**Physics Website:**  
+**🧪 Physics Website**  
 https://bubblesphysics.fnbubbles420.org
 
-**X / Twitter:**  
+    </td>
+    <td width="50%">
+
+**𝕏 X / Twitter**  
 [@KernFerm](https://twitter.com/rbubblesthedev)
 
-**Discord:**  
+**💬 Discord**  
 [Join the FNBUBBLES420 Org Community](https://discord.gg/zQbJJgwbUv)
+
+**🎮 Twitch**  
+https://twitch.tv/bubblesthedev
+
+    </td>
+  </tr>
+</table>
 
 ---
 
