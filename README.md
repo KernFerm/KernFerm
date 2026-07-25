@@ -111,17 +111,28 @@ Physics helps me better understand the universe while strengthening my problem-s
 
 ## 🌐 Languages
 
-* English
-* Bulgarian
-* Russian
-* Vietnamese
-* Korean
-* Turkish
-* Chinese Simplified
-* Chinese Traditional
-* French
-* Portuguese
-* Croatian
+<table>
+  <tr>
+    <td>🇺🇸 <b>English</b></td>
+    <td>🇧🇬 <b>Bulgarian</b></td>
+    <td>🇷🇺 <b>Russian</b></td>
+    <td>🇻🇳 <b>Vietnamese</b></td>
+  </tr>
+  <tr>
+    <td>🇰🇷 <b>Korean</b></td>
+    <td>🇹🇷 <b>Turkish</b></td>
+    <td>🇨🇳 <b>Chinese (Simplified)</b></td>
+    <td>🇹🇼 <b>Chinese (Traditional)</b></td>
+  </tr>
+  <tr>
+    <td>🇫🇷 <b>French</b></td>
+    <td>🇵🇹 <b>Portuguese</b></td>
+    <td>🇭🇷 <b>Croatian</b></td>
+    <td></td>
+  </tr>
+</table>
+
+---
 
 ---
 
