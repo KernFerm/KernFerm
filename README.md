@@ -6,6 +6,10 @@ I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.
 
 ---
 
+## 𓈗 𓇋 𓆎 — BubblesTheDev
+
+> **Life • The • Creator**
+
 <table>
 <tr>
 
@@ -133,12 +137,6 @@ Our mission is to empower individuals with disabilities, autism, PTSD, mental he
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zQbJJgwbUv)
 [![Twitch](https://img.shields.io/badge/Twitch-BubblesTheDev-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/bubblesthedev)
 [![X](https://img.shields.io/badge/X-@KernFerm-black?style=for-the-badge&logo=x)](https://twitter.com/rbubblesthedev)
-
----
-
-## 𓈗 𓇋 𓆎 — BubblesTheDev
-
-> **Life • The • Creator**
 
 ---
 
