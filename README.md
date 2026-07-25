@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bubbles The Dev
+# 👋 Hi, I'm BubblesTheDev
 
 ### Principal Engineer • Systems Architect • Software Developer • Streamer
 
