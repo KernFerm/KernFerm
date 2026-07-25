@@ -6,18 +6,36 @@ I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
 
-🏗️ Principal Engineer & Systems Architect  
-💻 Software Developer, Programmer & Engineer  
-🔐 Security, Cloud, DevOps & Full Stack Development  
-🤖 Artificial Intelligence & IoT Development  
-🌎 Localization & Multilingual Technology  
-🧪 Physics Enthusiast & Programming Educator  
-🎮 Twitch Streamer & Affiliate  
-❤️ Accessibility Advocate  
+<td valign="top" width="58%">
+
+<h2>🚀 About Me</h2>
+
+🏗️ Principal Engineer & Systems Architect<br>
+💻 Software Developer, Programmer & Engineer<br>
+🔐 Security, Cloud, DevOps & Full Stack Development<br>
+🤖 Artificial Intelligence & IoT Development<br>
+🌎 Localization & Multilingual Technology<br>
+🧪 Physics Enthusiast & Programming Educator<br>
+🎮 Twitch Streamer & Affiliate<br>
+❤️ Accessibility Advocate
+
+</td>
+
+<td valign="top" width="42%">
+
+<h2>♿ My Experience</h2>
 
 I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These experiences strengthen my commitment to building accessible, inclusive, and empowering technology.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
