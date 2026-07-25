@@ -1,152 +1,178 @@
-# Im Bubbles The Dev
+# 👋 Hi, I'm Bubbles The Dev
 
-## About Me
+### Principal Engineer • Systems Architect • Software Developer • Streamer
 
-- **Occupations**: Streamer, Principal Engineer, Systems Architect.
-- President & Founder of [FNBUBBLES420 ORG](https://www.fnbubbles420.org), a nonprofit dedicated to empowering disabled gamers, streamers, students, developers, and veterans. Our mission focuses on supporting individuals with disabilities ♿, autism spectrum disorders 🧩, PTSD 🧠, mental health challenges 💚, physical challenges 💪, and service-related injuries.
+I am the **President and Founder of [FNBUBBLES420 Org](https://www.fnbubbles420.org)**, a 501(c)(3) nonprofit organization dedicated to improving accessibility and educational opportunities through technology.
 
-- **Other Occupations**: Software Developer, Programmer, Software Engineer, Web Developer, Full Stack Developer, DevOps Engineer, Data Scientist, Multilingual Customer Support Engineer, Research Scientist, Technical Consultant, Localization Engineer, International Project Manager, Cloud Engineer, Security Engineer, Academic Researcher, Technical Writer, Blockchain Developer, Artificial Intelligence Engineer, IoT Developer.
-- **Passions**: Gaming 🎮, coding 💻, and helping others ❤️.
-- **Challenges**: PTSD, ADHD, Autism, RA (Rheumatoid Arthritis), Seizures 💡🧠.
-- **Family and Pets**: I love my family and my pets, which include 5 dogs 🐶, 2 cats 🐱, 2 guinea pigs 🐹, and 1 rabbit 🐰.
-- **Goals**: Making the world a better place 🌍.
-- **Teaching**: Physics 🧪, coding & programming 💻.
+Our mission supports individuals with disabilities, autism, PTSD, mental health challenges, physical challenges, service-related injuries, veterans, students, gamers, streamers, developers, and families in need.
 
-### Twitch and Development
-- Twitch Streamer/Affiliate and Active Developer.
-
-### Personal Interests
-- **Hobbies**: Hanging with my furbabies 🐾, playing video games 🎮, working with Visual Studio Code 💻.
-- **Learning Goals**: Continuously learning new things and improving my skills. Currently, I want to learn Astrophysics 🌌.
-- **Community Involvement**: Actively involved in helping my local community, rescuing animals 🐾, and saving lives 🛡️.
-
-- ***FNBUBBLES420 ORG 🌟 Learn More at [Our_Mission](https://fnbubbles420.org/ourmission)***
-- ### [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
-- **Twitch**: `FNBubbles420 Org` [https://twitch.tv/fnbubbles420org](https://twitch.tv/fnbubbles420org)
-
-## Get in Touch
-- **Email:** BubblesTheDev@fnbubbles420.org
-- **Website:**
-- [fnbubbles420.org](https://fnbubbles420.org)
-- [bubblesphysics.fnbubbles420.org](https://bubblesphysics.fnbubbles420.org)
-- **Twitter:** [@KernFerm](https://twitter.com/rbubblesthedev)
-- **Twitch**: `BubblesTheDev` [https://twitch.tv/bubblesthedev](https://twitch.tv/bubblesthedev)
-
- 
-```
-𓈗 (Water): Symbolizes life, as water is essential for all living things. In ancient Egypt, water represented life, fertility, and renewal, reflecting the importance of the Nile River. In this context, it represents "bubbles," which are associated with water and vitality.
-
-𓇋 (Reed leaf): Represents "the." This hieroglyph, a single reed leaf, is often used as a phonetic symbol for the sound "i" or "y" and can also serve as a determinative to specify the meaning of a word.
-
-𓆎 (Scarab beetle): Symbolizes creation, transformation, and rebirth. The scarab beetle was sacred in ancient Egypt and associated with the sun god Ra. It represents the creative forces of life and the transformative power of the sun.
-
-Combined Meaning: "Life - The - Creator", representing "Bubbles The Dev".
-```
-----
-
-# Skills
-
-## Programming Languages
-`17 and counting`
-- **Python**
-- **JavaScript**
-- **TypeScript**
-- **HTML**
-- **CSS**
-- **Batch Script**
-- **PowerShell**
-- **Rust**
-- **F#**
-- **C#**
-- **Kotlin**
-- **GO**
-- **C++**
-- **Shell**
-- **Gherkin**
-- **Java**
-- **Delphi**
-
-
-## Languages
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="50"><br><b>English</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="50"><br><b>Russian</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="50"><br><b>Vietnamese</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="50"><br><b>Korean</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="50"><br><b>Turkish</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="50"><br><b>Chinese (Simplified)</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" width="50"><br><b>Chinese (Traditional)</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="50"><br><b>French</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="50"><br><b>Portuguese</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" width="50"><br><b>Croatian</b></td>
-  </tr>
-</table>
-
-## Tools & Frameworks
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-             alt="Node.js" width="60" height="60"><br>Node.js
-      </td>
-      <td align="center">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1183%2F1183621.png&f=1&nofb=1&ipt=62364c9be4fa4b6ea422a501d72f42f58d4e6517316036c837ff5bedbd36d0d7&ipo=images" 
-             alt="React" width="60" height="60"><br>React
-      </td>
-      <td align="center">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.djangoproject.com%2Fimg%2Flogos%2Fdjango-logo-negative.1d528e2cb5fb.png&f=1&nofb=1&ipt=5960d22ff7dd716a5df57d92e2f2acc12a5942651f3bd2700b07852e64646429&ipo=images" 
-             alt="Django" width="60" height="60"><br>Django
-      </td>
-      <td align="center">
-        <img src="https://camo.githubusercontent.com/91107ff0eb74e2d111c5229d8cecfb0d7fc62ad121280056bc46c5af66315cbe/68747470733a2f2f313030306d61726361732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30322f446f636b65722d4c6f676f2e706e67" 
-             alt="Docker" width="60" height="60"><br>Docker
-      </td>
-    </tr>
-  </table>
-</p>
-
-
-## Science
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3167063.jpg&f=1&nofb=1&ipt=e25a400b7418547427161eab78bed4b82ecf8f23dd98f5b29206b5bf11dc12c7&ipo=images" alt="Theoretical Physics" width="100" height="100"><br><b>Theoretical Physics</b>
-      </td>
-      <td align="center">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SX54C9oCX5JODiAiXIUOSQHaFZ%26pid%3DApi&f=1&ipt=1b00ddb30206ab6c886bf4a9f2a19d30b542543721db9dd09672a3793e9e229d&ipo=images" alt="Nuclear Physics" width="100" height="100"><br><b>Nuclear Physics</b>
-      </td>
-    </tr>
-  </table>
-</p>
-
-```json
- {
-    "subject_areas": ["theoretical physics", "nuclear physics"],
-    "time_frame": "short amount of time",
-    "interest": "fascinating",
-    "current_status": "still learning and teaching myself"
-}
-```
-
------
-## License
-This project is licensed under the [Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE) - All Rights Reserved.
-
------
-**![GitHub followers](https://img.shields.io/github/followers/KernFerm?label=Follow&style=social)**
-**![GitHub stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)**
 ---
 
-# **Thank you for visiting my profile !!! 😊**
+## 🚀 About Me
 
+* 💻 Software Developer, Programmer, and Engineer
+* 🏗️ Principal Engineer and Systems Architect
+* 🎮 Twitch Streamer and Affiliate
+* 🔐 Security, Cloud, DevOps, and Full Stack Development
+* 🤖 Artificial Intelligence and IoT Development
+* 🌎 Localization and Multilingual Technology
+* 🧪 Physics and programming educator
+* ❤️ Passionate about helping people and improving accessibility
 
+I live with autism, ADHD, PTSD, rheumatoid arthritis, and seizures. These challenges have strengthened my commitment to creating technology that is accessible, inclusive, and helpful to others.
 
+---
 
+## 🌍 My Mission
+
+> Build technology that removes barriers, improves lives, and makes the world more accessible for everyone.
+
+I enjoy helping my community, rescuing animals, teaching others, developing software, and continuing to expand my knowledge.
+
+---
+
+## 💻 Programming Languages
+
+`17 and counting`
+
+* Python
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* C#
+* C++
+* Java
+* Kotlin
+* Go
+* Rust
+* F#
+* Delphi
+* PowerShell
+* Batch Script
+* Shell
+* Gherkin
+
+---
+
+## 🛠️ Tools and Technologies
+
+* Node.js
+* React
+* Django
+* Docker
+* Git and GitHub
+* Visual Studio Code
+* Cloud Technologies
+* DevOps
+* Cybersecurity
+* Artificial Intelligence
+* Full Stack Development
+
+---
+
+## 🔬 Science
+
+I study and teach myself different areas of physics, including:
+
+* Theoretical Physics
+* Nuclear Physics
+* Astrophysics
+
+Physics helps me better understand the universe while strengthening my problem-solving and software-development skills.
+
+---
+
+## 🌐 Languages
+
+* English
+* Bulgarian
+* Russian
+* Vietnamese
+* Korean
+* Turkish
+* Chinese Simplified
+* Chinese Traditional
+* French
+* Portuguese
+* Croatian
+
+---
+
+## 🎮 Gaming and Streaming
+
+I am a Twitch Affiliate who enjoys gaming, streaming, programming, and spending time with my community.
+
+**Personal Twitch:**
+https://twitch.tv/bubblesthedev
+
+**FNBUBBLES420 Org Twitch:**
+https://twitch.tv/fnbubbles420org
+
+---
+
+## 🐾 My Family and Pets
+
+I love my family and enjoy spending time with my furbabies:
+
+* 🐶 5 dogs
+* 🐱 2 cats
+* 🐹 2 guinea pigs
+* 🐰 1 rabbit
+
+---
+
+## 🌟 FNBUBBLES420 Org
+
+Learn more about our nonprofit mission:
+
+[Visit Our Mission Page](https://fnbubbles420.org/ourmission)
+
+[![Join Our Discord](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
+
+---
+
+## 📫 Get in Touch
+
+**Email:** [BubblesTheDev@fnbubbles420.org](mailto:BubblesTheDev@fnbubbles420.org)
+
+**Nonprofit Website:**
+https://fnbubbles420.org
+
+**Physics Website:**
+https://bubblesphysics.fnbubbles420.org
+
+**X / Twitter:**
+[@KernFerm](https://twitter.com/rbubblesthedev)
+
+**Discord:**
+[Join the FNBUBBLES420 Org Community](https://discord.gg/zQbJJgwbUv)
+
+---
+
+## 𓈗 𓇋 𓆎 — Bubbles The Dev
+
+**𓈗 Water:** Represents life, renewal, and the name “Bubbles.”
+
+**𓇋 Reed Leaf:** Represents “The.”
+
+**𓆎 Scarab Beetle:** Represents creation, transformation, and rebirth.
+
+Together, the symbols represent:
+
+> **Life • The • Creator**
+
+---
+
+## 📜 License
+
+This profile and its original content are protected under the [Custom License](https://github.com/KernFerm/KernFerm/blob/main/LICENSE). All rights reserved.
+
+---
+
+![GitHub Followers](https://img.shields.io/github/followers/KernFerm?label=Followers\&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/KernFerm?label=Stars\&style=social)
+
+# 💙 Thank You for Visiting My Profile!
+
+Technology can change lives when it is built with compassion, accessibility, and purpose.
