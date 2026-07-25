@@ -31,6 +31,10 @@ I enjoy helping my community, rescuing animals, teaching others, developing soft
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ## 💻 Programming Languages
 
 `17 and counting`
@@ -39,36 +43,43 @@ I enjoy helping my community, rescuing animals, teaching others, developing soft
   <tr>
     <td><b>Python</b></td>
     <td><b>JavaScript</b></td>
+  </tr>
+  <tr>
     <td><b>TypeScript</b></td>
     <td><b>HTML</b></td>
   </tr>
   <tr>
     <td><b>CSS</b></td>
     <td><b>C#</b></td>
+  </tr>
+  <tr>
     <td><b>C++</b></td>
     <td><b>Java</b></td>
   </tr>
   <tr>
     <td><b>Kotlin</b></td>
     <td><b>Go</b></td>
+  </tr>
+  <tr>
     <td><b>Rust</b></td>
     <td><b>F#</b></td>
   </tr>
   <tr>
     <td><b>Delphi</b></td>
     <td><b>PowerShell</b></td>
+  </tr>
+  <tr>
     <td><b>Batch Script</b></td>
     <td><b>Shell</b></td>
   </tr>
   <tr>
     <td><b>Gherkin</b></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
----
+  </td>
+  <td valign="top" width="50%">
 
 ## 🛠️ Tools and Technologies
 
@@ -76,24 +87,32 @@ I enjoy helping my community, rescuing animals, teaching others, developing soft
   <tr>
     <td><b>Node.js</b></td>
     <td><b>React</b></td>
+  </tr>
+  <tr>
     <td><b>Django</b></td>
     <td><b>Docker</b></td>
   </tr>
   <tr>
     <td><b>Git</b></td>
     <td><b>GitHub</b></td>
+  </tr>
+  <tr>
     <td><b>Visual Studio Code</b></td>
     <td><b>Cloud Technologies</b></td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
     <td><b>Cybersecurity</b></td>
+  </tr>
+  <tr>
     <td><b>Artificial Intelligence</b></td>
     <td><b>Full Stack Development</b></td>
   </tr>
 </table>
 
----
+  </td>
+  </tr>
+</table>
 
 ---
 
