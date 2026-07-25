@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BubblesTheDev
+# 👋 Hi, I'm Bubbles The Dev
 
 ### Principal Engineer • Systems Architect • Software Developer • Streamer
 
@@ -35,23 +35,38 @@ I enjoy helping my community, rescuing animals, teaching others, developing soft
 
 `17 and counting`
 
-* Python
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-* C#
-* C++
-* Java
-* Kotlin
-* Go
-* Rust
-* F#
-* Delphi
-* PowerShell
-* Batch Script
-* Shell
-* Gherkin
+<table>
+  <tr>
+    <td><b>Python</b></td>
+    <td><b>JavaScript</b></td>
+    <td><b>TypeScript</b></td>
+    <td><b>HTML</b></td>
+  </tr>
+  <tr>
+    <td><b>CSS</b></td>
+    <td><b>C#</b></td>
+    <td><b>C++</b></td>
+    <td><b>Java</b></td>
+  </tr>
+  <tr>
+    <td><b>Kotlin</b></td>
+    <td><b>Go</b></td>
+    <td><b>Rust</b></td>
+    <td><b>F#</b></td>
+  </tr>
+  <tr>
+    <td><b>Delphi</b></td>
+    <td><b>PowerShell</b></td>
+    <td><b>Batch Script</b></td>
+    <td><b>Shell</b></td>
+  </tr>
+  <tr>
+    <td><b>Gherkin</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -103,10 +118,10 @@ Physics helps me better understand the universe while strengthening my problem-s
 
 I am a Twitch Affiliate who enjoys gaming, streaming, programming, and spending time with my community.
 
-**Personal Twitch:**
+**Personal Twitch:**  
 https://twitch.tv/bubblesthedev
 
-**FNBUBBLES420 Org Twitch:**
+**FNBUBBLES420 Org Twitch:**  
 https://twitch.tv/fnbubbles420org
 
 ---
@@ -115,7 +130,7 @@ https://twitch.tv/fnbubbles420org
 
 I love my family and enjoy spending time with my furbabies:
 
-* 🐶 5 dogs
+* 🐶 13 dogs
 * 🐱 2 cats
 * 🐹 2 guinea pigs
 * 🐰 1 rabbit
@@ -136,16 +151,16 @@ Learn more about our nonprofit mission:
 
 **Email:** [BubblesTheDev@fnbubbles420.org](mailto:BubblesTheDev@fnbubbles420.org)
 
-**Nonprofit Website:**
+**Nonprofit Website:**  
 https://fnbubbles420.org
 
-**Physics Website:**
+**Physics Website:**  
 https://bubblesphysics.fnbubbles420.org
 
-**X / Twitter:**
+**X / Twitter:**  
 [@KernFerm](https://twitter.com/rbubblesthedev)
 
-**Discord:**
+**Discord:**  
 [Join the FNBUBBLES420 Org Community](https://discord.gg/zQbJJgwbUv)
 
 ---
@@ -170,8 +185,8 @@ This profile and its original content are protected under the [Custom License](h
 
 ---
 
-![GitHub Followers](https://img.shields.io/github/followers/KernFerm?label=Followers\&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/KernFerm?label=Stars\&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/KernFerm?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/KernFerm?label=Stars&style=social)
 
 # 💙 Thank You for Visiting My Profile!
 
